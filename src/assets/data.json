@@ -1,0 +1,999 @@
+{
+    "source": "https://github.com/dariusk/corpora/tree/master/data/sports",
+    "league": [
+        {
+            "name": "MLB",
+            "teams": [
+                {
+                    "stadium": "Chase Field",
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "name": "Arizona Diamondbacks",
+                    "league": "National",
+                    "division": "West"
+                },
+                {
+                    "stadium": "Turner Field",
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "name": "Atlanta Braves",
+                    "league": "National",
+                    "division": "East"
+                },
+                {
+                    "stadium": "Oriole Park at Camden Yards",
+                    "city": "Baltimore",
+                    "state": "MD",
+                    "name": "Baltimore Orioles",
+                    "league": "American",
+                    "division": "East"
+                },
+                {
+                    "stadium": "Fenway Park",
+                    "city": "Boston",
+                    "state": "MA",
+                    "name": "Boston Red Sox",
+                    "league": "American",
+                    "division": "East"
+                },
+                {
+                    "stadium": "Wrigley Field",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "name": "Chicago Cubs",
+                    "league": "National",
+                    "division": "Central"
+                },
+                {
+                    "stadium": "U.S. Cellular Field",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "name": "Chicago White Sox",
+                    "league": "American",
+                    "division": "Central"
+                },
+                {
+                    "stadium": "Great American Ball Park",
+                    "city": "Cincinnati",
+                    "state": "OH",
+                    "name": "Cincinnati Reds",
+                    "league": "National",
+                    "division": "Central"
+                },
+                {
+                    "stadium": "Progressive Field",
+                    "city": "Cleveland",
+                    "state": "OH",
+                    "name": "Cleveland Indians",
+                    "league": "American",
+                    "division": "Central"
+                },
+                {
+                    "stadium": "Coors Field",
+                    "city": "Denver",
+                    "state": "CO",
+                    "name": "Colorado Rockies",
+                    "league": "National",
+                    "division": "West"
+                },
+                {
+                    "stadium": "Comerica Park",
+                    "city": "Detroit",
+                    "state": "MI",
+                    "name": "Detroit Tigers",
+                    "league": "American",
+                    "division": "Central"
+                },
+                {
+                    "stadium": "Minute Maid Park",
+                    "city": "Houston",
+                    "state": "TX",
+                    "name": "Houston Astros",
+                    "league": "American",
+                    "division": "West"
+                },
+                {
+                    "stadium": "Kauffman Stadium",
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "name": "Kansas City Royals",
+                    "league": "American",
+                    "division": "Central"
+                },
+                {
+                    "stadium": "Angel Stadium of Anaheim",
+                    "city": "Anaheim",
+                    "state": "CA",
+                    "name": "Los Angeles Angels of Anaheim",
+                    "league": "American",
+                    "division": "West"
+                },
+                {
+                    "stadium": "Dodger Stadium",
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "name": "Los Angeles Dodgers",
+                    "league": "National",
+                    "division": "West"
+                },
+                {
+                    "stadium": "Marlins Park",
+                    "city": "Miami",
+                    "state": "FL",
+                    "name": "Miami Marlins",
+                    "league": "National",
+                    "division": "East"
+                },
+                {
+                    "stadium": "Miller Park",
+                    "city": "Milwaukee",
+                    "state": "WI",
+                    "name": "Milwaukee Brewers",
+                    "league": "National",
+                    "division": "Central"
+                },
+                {
+                    "stadium": "Target Field",
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "name": "Minnesota Twins",
+                    "league": "American",
+                    "division": "Central"
+                },
+                {
+                    "stadium": "Citi Field",
+                    "city": "Queens",
+                    "state": "NY",
+                    "name": "New York Mets",
+                    "league": "National",
+                    "division": "East"
+                },
+                {
+                    "stadium": "Yankee Stadium",
+                    "city": "Bronx",
+                    "state": "NY",
+                    "name": "New York Yankees",
+                    "league": "American",
+                    "division": "East"
+                },
+                {
+                    "stadium": "Oakland Coliseum",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "name": "Oakland Athletics",
+                    "league": "American",
+                    "division": "West"
+                },
+                {
+                    "stadium": "Citizens Bank Park",
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "name": "Philadelphia Phillies",
+                    "league": "National",
+                    "division": "East"
+                },
+                {
+                    "stadium": "PNC Park",
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "name": "Pittsburgh Pirates",
+                    "league": "National",
+                    "division": "Central"
+                },
+                {
+                    "stadium": "Petco Park",
+                    "city": "San Diego",
+                    "state": "CA",
+                    "name": "San Diego Padres",
+                    "league": "National",
+                    "division": "West"
+                },
+                {
+                    "stadium": "AT&T Park",
+                    "city": "San Francisco",
+                    "state": "CA",
+                    "name": "San Francisco Giants",
+                    "league": "National",
+                    "division": "West"
+                },
+                {
+                    "stadium": "Safeco Field",
+                    "city": "Seattle",
+                    "state": "WA",
+                    "name": "Seattle Mariners",
+                    "league": "American",
+                    "division": "West"
+                },
+                {
+                    "stadium": "Busch Stadium",
+                    "city": "St. Louis",
+                    "state": "MO",
+                    "name": "St. Louis Cardinals",
+                    "league": "National",
+                    "division": "Central"
+                },
+                {
+                    "stadium": "Tropicana Field",
+                    "city": "St. Petersburg",
+                    "state": "FL",
+                    "name": "Tampa Bay Rays",
+                    "league": "American",
+                    "division": "East"
+                },
+                {
+                    "stadium": "Globe Life Park in Arlington",
+                    "city": "Arlington",
+                    "state": "TX",
+                    "name": "Texas Rangers",
+                    "league": "American",
+                    "division": "West"
+                },
+                {
+                    "stadium": "Rogers Centre",
+                    "city": "Toronto",
+                    "state": "ON",
+                    "name": "Toronto Blue Jays",
+                    "league": "American",
+                    "division": "East"
+                },
+                {
+                    "stadium": "Nationals Park",
+                    "city": "Washington",
+                    "state": "DC",
+                    "name": "Washington Nationals",
+                    "league": "National",
+                    "division": "East"
+                }    
+            ]
+        },
+        {
+            "name": "NFL",
+            "teams": [
+                {
+                    "name": "Buffalo Bills",
+                    "conference": "AFC",
+                    "division": "East",
+                    "city": "Orchard Park",
+                    "state": "NY",
+                    "stadium": "New Era Field"
+                },
+                {
+                    "name": "Miami Dolphins",
+                    "conference": "AFC",
+                    "division": "East",
+                    "city": "Miami Gardens",
+                    "state": "FL",
+                    "stadium": "Sun Life Stadium"
+                },
+                {
+                    "name": "New England Patriots",
+                    "conference": "AFC",
+                    "division": "East",
+                    "city": "Foxborough",
+                    "state": "MA",
+                    "stadium": "Gillette Stadium"
+                },
+                {
+                    "name": "New York Jets",
+                    "conference": "AFC",
+                    "division": "East",
+                    "city": "East Rutherford",
+                    "state": "NJ",
+                    "stadium": "MetLife Stadium"
+                },
+                {
+                    "name": "Baltimore Ravens",
+                    "conference": "AFC",
+                    "division": "North",
+                    "city": "Baltimore",
+                    "state": "MD",
+                    "stadium": "M&T Bank Stadium"
+                },
+                {
+                    "name": "Cincinnati Bengals",
+                    "conference": "AFC",
+                    "division": "North",
+                    "city": "Cincinnati",
+                    "state": "OH",
+                    "stadium": "Paul Brown Stadium"
+                },
+                {
+                    "name": "Cleveland Browns",
+                    "conference": "AFC",
+                    "division": "North",
+                    "city": "Cleveland",
+                    "state": "OH",
+                    "stadium": "FirstEnergy Stadium"
+                },
+                {
+                    "name": "Pittsburgh Steelers",
+                    "conference": "AFC",
+                    "division": "North",
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "stadium": "Heinz Field"
+                },
+                {
+                    "name": "Houston Texans",
+                    "conference": "AFC",
+                    "division": "South",
+                    "city": "Houston",
+                    "state": "TX",
+                    "stadium": "NRG Stadium"
+                },
+                {
+                    "name": "Indianapolis Colts",
+                    "conference": "AFC",
+                    "division": "South",
+                    "city": "Indianapolis",
+                    "state": "IN",
+                    "stadium": "Lucas Oil Stadium"
+                },
+                {
+                    "name": "Jacksonville Jaguars",
+                    "conference": "AFC",
+                    "division": "South",
+                    "city": "Jacksonville",
+                    "state": "FL",
+                    "stadium": "EverBank Field"
+                },
+                {
+                    "name": "Tennessee Titans",
+                    "conference": "AFC",
+                    "division": "South",
+                    "city": "Nashville",
+                    "state": "TN",
+                    "stadium": "Nissan Stadium"
+                },
+                {
+                    "name": "Denver Broncos",
+                    "conference": "AFC",
+                    "division": "West",
+                    "city": "Denver",
+                    "state": "CO",
+                    "stadium": "Sports Authority Field at Mile High"
+                },
+                {
+                    "name": "Kansas City Chiefs",
+                    "conference": "AFC",
+                    "division": "West",
+                    "city": "Kansas City",
+                    "state": "MO",
+                    "stadium": "Arrowhead Stadium"
+                },
+                {
+                    "name": "Oakland Raiders",
+                    "conference": "AFC",
+                    "division": "West",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "stadium": "Oakland Alemeda Coliseum"
+                },
+                {
+                    "name": "Los Angeles Chargers",
+                    "conference": "AFC",
+                    "division": "West",
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "stadium": "StubHub Center"
+                },
+                {
+                    "name": "Dallas Cowboys",
+                    "conference": "NFC",
+                    "division": "East",
+                    "city": "Arlington",
+                    "state": "TX",
+                    "stadium": "AT&T Stadium"
+                },
+                {
+                    "name": "New York Giants",
+                    "conference": "NFC",
+                    "division": "East",
+                    "city": "East Rutherford",
+                    "state": "NJ",
+                    "stadium": "MetLife Stadium"
+                },
+                {
+                    "name": "Philadelphia Eagles",
+                    "conference": "NFC",
+                    "division": "East",
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "stadium": "Lincoln Financial Field"
+                },
+                {
+                    "name": "Washington Redskins",
+                    "conference": "NFC",
+                    "division": "East",
+                    "city": "Landover",
+                    "state": "MD",
+                    "stadium": "FedExField"
+                },
+                {
+                    "name": "Chicago Bears",
+                    "conference": "NFC",
+                    "division": "North",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "stadium": "Soldier Field"
+                },
+                {
+                    "name": "Detroit Lions",
+                    "conference": "NFC",
+                    "division": "North",
+                    "city": "Detroit",
+                    "state": "MI",
+                    "stadium": "Ford Field"
+                },
+                {
+                    "name": "Green Bay Packers",
+                    "conference": "NFC",
+                    "division": "North",
+                    "city": "Green Bay",
+                    "state": "WI",
+                    "stadium": "Lambeau Field"
+                },
+                {
+                    "name": "Minnesota Vikings",
+                    "conference": "NFC",
+                    "division": "North",
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "stadium": "U.S. Bank Stadium"
+                },
+                {
+                    "name": "Atlanta Falcons",
+                    "conference": "NFC",
+                    "division": "South",
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "stadium": "Georgia Dome"
+                },
+                {
+                    "name": "Carolina Panthers",
+                    "conference": "NFC",
+                    "division": "South",
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "stadium": "Bank of America Stadium"
+                },
+                {
+                    "name": "New Orleans Saints",
+                    "conference": "NFC",
+                    "division": "South",
+                    "city": "New Orleans",
+                    "state": "LA",
+                    "stadium": "Mercedes-Benz Superdome"
+                },
+                {
+                    "name": "Tampa Bay Buccaneers",
+                    "conference": "NFC",
+                    "division": "South",
+                    "city": "Tampa",
+                    "state": "FL",
+                    "stadium": "Raymond James Stadium"
+                },
+                {
+                    "name": "Arizona Cardinals",
+                    "conference": "NFC",
+                    "division": "West",
+                    "city": "Glendale",
+                    "state": "AZ",
+                    "stadium": "University of Phoenix Stadium"
+                },
+                {
+                    "name": "Los Angeles Rams",
+                    "conference": "NFC",
+                    "division": "West",
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "stadium": "Los Angeles Memorial Coliseum"
+                },
+                {
+                    "name": "San Francisco 49ers",
+                    "conference": "NFC",
+                    "division": "West",
+                    "city": "Santa Clara",
+                    "state": "CA",
+                    "stadium": "Levi's Stadium"
+                },
+                {
+                    "name": "Seattle Seahawks",
+                    "conference": "NFC",
+                    "division": "West",
+                    "city": "Seattle",
+                    "state": "WA",
+                    "stadium": "CenturyLink Field"
+            }   
+            ]
+        },
+        {
+            "name": "NBA",
+            "teams": [
+                {
+                    "conference": "Eastern",
+                    "division": "Atlantic",
+                    "name": "Boston Celtics",
+                    "city": "Boston",
+                    "state": "MA",
+                    "stadium": "TD Garden"
+                },
+                {
+                    "conference": "Eastern",
+                    "division": "Atlantic",
+                    "name": "Brooklyn Nets",
+                    "city": "New York",
+                    "state": "NY",
+                    "stadium": "Barclays Center"
+                },
+                {
+                    "conference": "Eastern",
+                    "division": "Atlantic",
+                    "name": "New York Knicks",
+                    "city": "New York",
+                    "state": "NY",
+                    "stadium": "Madison Square Garden"
+                },
+                {
+                    "conference": "Eastern",
+                    "division": "Atlantic",
+                    "name": "Philadelphia 76ers",
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "stadium": "Wells Fargo Center"
+                },
+                {
+                    "conference": "Eastern",
+                    "division": "Atlantic",
+                    "name": "Toronto Raptors",
+                    "city": "Toronto",
+                    "state": "ON",
+                    "stadium": "Air Canada Centre"
+                },
+                {
+                    "conference": "Eastern",
+                    "division": "Central",
+                    "name": "Chicago Bulls",
+                    "city": "Chicago",
+                    "state": "IL",
+                    "stadium": "United Center"
+                },
+                {
+                    "conference": "Eastern",
+                    "division": "Central",
+                    "name": "Cleveland Cavaliers",
+                    "city": "Cleveland",
+                    "state": "OH",
+                    "stadium": "Quicken Loans Arena"
+                },
+                {
+                    "conference": "Eastern",
+                    "division": "Central",
+                    "name": "Detroit Pistons",
+                    "city": "Auburn Hills",
+                    "state": "MI",
+                    "stadium": "The Palace of Auburn Hills"
+                },
+                {
+                    "conference": "Eastern",
+                    "division": "Central",
+                    "name": "Indiana Pacers",
+                    "city": "Indianapolis",
+                    "state": "IN",
+                    "stadium": "Bankers Life Fieldhouse"
+                },
+                {
+                    "conference": "Eastern",
+                    "division": "Central",
+                    "name": "Milwaukee Bucks",
+                    "city": "Milwaukee",
+                    "state": "WI",
+                    "stadium": "BMO Harris Bradley Center"
+                },
+                {
+                    "conference": "Eastern",
+                    "division": "Southeast",
+                    "name": "Atlanta Hawks",
+                    "city": "Atlanta",
+                    "state": "GA",
+                    "stadium": "Philips Arena"
+                },
+                {
+                    "conference": "Eastern",
+                    "division": "Southeast",
+                    "name": "Charlotte Hornets",
+                    "city": "Charlotte",
+                    "state": "NC",
+                    "stadium": "Spectrum Center"
+                },
+                {
+                    "conference": "Eastern",
+                    "division": "Southeast",
+                    "name": "Miami Heat",
+                    "city": "Miami",
+                    "state": "FL",
+                    "stadium": "American Airlines Arena"
+                },
+                {
+                    "conference": "Eastern",
+                    "division": "Southeast",
+                    "name": "Orlando Magic",
+                    "city": "Orlando",
+                    "state": "FL",
+                    "stadium": "Amway Center"
+                },
+                {
+                    "conference": "Eastern",
+                    "division": "Southeast",
+                    "name": "Washington Wizards",
+                    "city": "Washington, D.C.",
+                    "stadium": "Verizon Center"
+                },
+                {
+                    "conference": "Western",
+                    "division": "Northwest",
+                    "name": "Denver Nuggets",
+                    "city": "Denver",
+                    "state": "CO",
+                    "stadium": "Pepsi Center"
+                },
+                {
+                    "conference": "Western",
+                    "division": "Northwest",
+                    "name": "Minnesota Timberwolves",
+                    "city": "Minneapolis",
+                    "state": "MN",
+                    "stadium": "Target Center"
+                },
+                {
+                    "conference": "Western",
+                    "division": "Northwest",
+                    "name": "Oklahoma City Thunder",
+                    "city": "Oklahoma City",
+                    "state": "OK",
+                    "stadium": "Chesapeake Energy Arena"
+                },
+                {
+                    "conference": "Western",
+                    "division": "Northwest",
+                    "name": "Portland Trail Blazers",
+                    "city": "Portland",
+                    "state": "OR",
+                    "stadium": "Moda Center"
+                },
+                {
+                    "conference": "Western",
+                    "division": "Northwest",
+                    "name": "Utah Jazz",
+                    "city": "Salt Lake City",
+                    "state": "UT",
+                    "stadium": "Vivint Smart Home Arena"
+                },
+                {
+                    "conference": "Western",
+                    "division": "Pacific",
+                    "name": "Golden State Warriors",
+                    "city": "Oakland",
+                    "state": "CA",
+                    "stadium": "Oracle Arena"
+                },
+                {
+                    "conference": "Western",
+                    "division": "Pacific",
+                    "name": "Los Angeles Clippers",
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "stadium": "Staples Center"
+                },
+                {
+                    "conference": "Western",
+                    "division": "Pacific",
+                    "name": "Los Angeles Lakers",
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "stadium": "Staples Center"
+                },
+                {
+                    "conference": "Western",
+                    "division": "Pacific",
+                    "name": "Phoenix Suns",
+                    "city": "Phoenix",
+                    "state": "AZ",
+                    "stadium": "Talking Stick Resort Arena"
+                },
+                {
+                    "conference": "Western",
+                    "division": "Pacific",
+                    "name": "Sacramento Kings",
+                    "city": "Sacramento",
+                    "state": "CA",
+                    "stadium": "Golden 1 Center"
+                },
+                {
+                    "conference": "Western",
+                    "division": "Southwest",
+                    "name": "Dallas Mavericks",
+                    "city": "Dallas",
+                    "state": "TX",
+                    "stadium": "American Airlines Center"
+                },
+                {
+                    "conference": "Western",
+                    "division": "Southwest",
+                    "name": "Houston Rockets",
+                    "city": "Houston",
+                    "state": "TX",
+                    "stadium": "Toyota Center"
+                },
+                {
+                    "conference": "Western",
+                    "division": "Southwest",
+                    "name": "Memphis Grizzlies",
+                    "city": "Memphis",
+                    "state": "TN",
+                    "stadium": "FedExForum"
+                },
+                {
+                    "conference": "Western",
+                    "division": "Southwest",
+                    "name": "New Orleans Pelicans",
+                    "city": "New Orleans",
+                    "state": "LA",
+                    "stadium": "Smoothie King Center"
+                },
+                {
+                    "conference": "Western",
+                    "division": "Southwest",
+                    "name": "San Antonio Spurs",
+                    "city": "San Antonio",
+                    "state": "TX",
+                    "stadium": "AT&T Center"
+            }    
+            ]
+        },
+        {
+            "name": "NHL",
+            "teams": [
+                {
+                    "city": "Boston",
+                    "state": "MA",
+                    "conference": "Eastern",
+                    "division": "Atlantic",
+                    "name": "Boston Bruins",
+                    "stadium": "TD Garden"
+                },
+                {
+                    "city": "Buffalo",
+                    "state": "NY",
+                    "conference": "Eastern",
+                    "division": "Atlantic",
+                    "name": "Buffalo Sabres",
+                    "stadium": "KeyBank Center"
+                },
+                {
+                    "city": "Detroit",
+                    "state": "MI",
+                    "conference": "Eastern",
+                    "division": "Atlantic",
+                    "name": "Detroit Red Wings",
+                    "stadium": "Joe Louis Arena"
+                },
+                {
+                    "city": "Sunrise",
+                    "state": "FL",
+                    "conference": "Eastern",
+                    "division": "Atlantic",
+                    "name": "Florida Panthers",
+                    "stadium": "BB&T Center"
+                },
+                {
+                    "city": "Montreal",
+                    "state": "QC",
+                    "conference": "Eastern",
+                    "division": "Atlantic",
+                    "name": "Montreal Canadiens",
+                    "stadium": "Bell Centre"
+                },
+                {
+                    "city": "Ottawa",
+                    "state": "ON",
+                    "conference": "Eastern",
+                    "division": "Atlantic",
+                    "name": "Ottawa Senators",
+                    "stadium": "Canadian Tire Centre"
+                },
+                {
+                    "city": "Tampa",
+                    "state": "FL",
+                    "conference": "Eastern",
+                    "division": "Atlantic",
+                    "name": "Tampa Bay Lightning",
+                    "stadium": "Amalie Arena"
+                },
+                {
+                    "city": "Toronto",
+                    "state": "ON",
+                    "conference": "Eastern",
+                    "division": "Atlantic",
+                    "name": "Toronto Maple Leafs",
+                    "stadium": "Air Canada Centre"
+                },
+                {
+                    "city": "Raleigh",
+                    "state": "NC",
+                    "conference": "Eastern",
+                    "division": "Metropolitan",
+                    "name": "Carolina Hurricanes",
+                    "stadium": "PNC Arena"
+                },
+                {
+                    "city": "Columbus",
+                    "state": "OH",
+                    "conference": "Eastern",
+                    "division": "Metropolitan",
+                    "name": "Columbus Blue Jackets",
+                    "stadium": "Nationwide Arena"
+                },
+                {
+                    "city": "Newark",
+                    "state": "NJ",
+                    "conference": "Eastern",
+                    "division": "Metropolitan",
+                    "name": "New Jersey Devils",
+                    "stadium": "Prudential Center"
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "conference": "Eastern",
+                    "division": "Metropolitan",
+                    "name": "New York Islanders",
+                    "stadium": "Barclays Center"
+                },
+                {
+                    "city": "New York",
+                    "state": "NY",
+                    "conference": "Eastern",
+                    "division": "Metropolitan",
+                    "name": "New York Rangers",
+                    "stadium": "Madison Square Garden"
+                },
+                {
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "conference": "Eastern",
+                    "division": "Metropolitan",
+                    "name": "Philadelphia Flyers",
+                    "stadium": "Wells Fargo Center"
+                },
+                {
+                    "city": "Pittsburgh",
+                    "state": "PA",
+                    "conference": "Eastern",
+                    "division": "Metropolitan",
+                    "name": "Pittsburgh Penguins",
+                    "stadium": "Consol Energy Center"
+                },
+                {
+                    "city": "Washington, D.C.",
+                    "conference": "Eastern",
+                    "division": "Metropolitan",
+                    "name": "Washington Capitals",
+                    "stadium": "Verizon Center"
+                },
+                {
+                    "city": "Anaheim",
+                    "state": "CA",
+                    "conference": "Western",
+                    "division": "Pacific",
+                    "name": "Anaheim Ducks",
+                    "stadium": "Honda Center"
+                },
+                {
+                    "city": "Glendale",
+                    "state": "AZ",
+                    "conference": "Western",
+                    "division": "Pacific",
+                    "name": "Arizona Coyotes",
+                    "stadium": "Gila River Arena"
+                },
+                {
+                    "city": "Calgary",
+                    "state": "AB",
+                    "conference": "Western",
+                    "division": "Pacific",
+                    "name": "Calgary Flames",
+                    "stadium": "Scotiabank Saddledome"
+                },
+                {
+                    "city": "Edmonton",
+                    "state": "AB",
+                    "conference": "Western",
+                    "division": "Pacific",
+                    "name": "Edmonton Oilers",
+                    "stadium": "Rogers Place"
+                },
+                {
+                    "city": "Los Angeles",
+                    "state": "CA",
+                    "conference": "Western",
+                    "division": "Pacific",
+                    "name": "Los Angeles Kings",
+                    "stadium": "Staples Center"
+                },
+                {
+                    "city": "San Jose",
+                    "state": "CA",
+                    "conference": "Western",
+                    "division": "Pacific",
+                    "name": "San Jose Sharks",
+                    "stadium": "SAP Center at San Jose"
+                },
+                {
+                    "city": "Vancouver",
+                    "state": "BC",
+                    "conference": "Western",
+                    "division": "Pacific",
+                    "name": "Vancouver Canucks",
+                    "stadium": "Rogers Arena"
+                },
+                {
+                    "city": "Chicago",
+                    "state": "IL",
+                    "conference": "Western",
+                    "division": "Central",
+                    "name": "Chicago Blackhawks",
+                    "stadium": "United Center"
+                },
+                {
+                    "city": "Denver",
+                    "state": "CO",
+                    "conference": "Western",
+                    "division": "Central",
+                    "name": "Colorado Avalanche",
+                    "stadium": "Pepsi Center"
+                },
+                {
+                    "city": "Dallas",
+                    "state": "TX",
+                    "conference": "Western",
+                    "division": "Central",
+                    "name": "Dallas Stars",
+                    "stadium": "American Airlines Center"
+                },
+                {
+                    "city": "St. Paul",
+                    "state": "MN",
+                    "conference": "Western",
+                    "division": "Central",
+                    "name": "Minnesota Wild",
+                    "stadium": "Xcel Energy Center"
+                },
+                {
+                    "city": "Nashville",
+                    "state": "TN",
+                    "conference": "Western",
+                    "division": "Central",
+                    "name": "Nashville Predators",
+                    "stadium": "Bridgestone Arena"
+                },
+                {
+                    "city": "St. Louis",
+                    "state": "MO",
+                    "conference": "Western",
+                    "division": "Central",
+                    "name": "St. Louis Blues",
+                    "stadium": "Scottrade Center"
+                },
+                {
+                    "city": "Winnipeg",
+                    "state": "MB",
+                    "conference": "Western",
+                    "division": "Central",
+                    "name": "Winnipeg Jets",
+                    "stadium": "MTS Centre"
+            }    
+            ]
+        }
+    ]
+}
