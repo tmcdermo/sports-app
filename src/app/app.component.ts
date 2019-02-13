@@ -10,7 +10,7 @@ export class AppComponent implements OnInit {
   sports = [  'MLB', 'NFL', 'NBA', 'NHL'  ];
 
   currentSport = 'Sport';
-  currentTeam: string;
+  currentTeam: object;
   sportsData: object;
   teams: object;
   show = false;
@@ -21,14 +21,13 @@ export class AppComponent implements OnInit {
 
   getTeams(sport: any) {
     this.currentSport = sport;
-    this.currentTeam = '';
     this.show = true;
     this.teams = this.sportsData.league.find(league => league.name === sport).teams;
     console.log(this.teams);
   }
 
   selectTeam(team: object) {
-    this.currentTeam = team.name;
+    this.currentTeam = team;
   }
 
   constructor(private http: HttpClient) {
