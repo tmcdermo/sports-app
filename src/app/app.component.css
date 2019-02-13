@@ -1,3 +1,9 @@
 .row {
     color: oldlace;
 }
+
+#teamDropdown {
+    height: auto;
+    max-height: 180px;
+    overflow-x: hidden;
+}

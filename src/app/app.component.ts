@@ -9,19 +9,26 @@ import { HttpClient } from '@angular/common/http';
 export class AppComponent implements OnInit {
   sports = [  'MLB', 'NFL', 'NBA', 'NHL'  ];
 
-  currentSport: string = 'Sport';
+  currentSport = 'Sport';
+  currentTeam: string;
   sportsData: object;
   teams: object;
-  show: boolean = false;
+  show = false;
 
   getSports() {
     return this.sports;
   }
 
   getTeams(sport: any) {
-    console.log(sport);
     this.currentSport = sport;
+    this.currentTeam = '';
     this.show = true;
+    this.teams = this.sportsData.league.find(league => league.name === sport).teams;
+    console.log(this.teams);
+  }
+
+  selectTeam(team: object) {
+    this.currentTeam = team.name;
   }
 
   constructor(private http: HttpClient) {
