@@ -22,7 +22,7 @@ export class AppComponent implements OnInit {
   getTeams(sport: any) {
     this.currentSport = sport;
     this.show = true;
-    this.teams = this.sportsData.league.find(league => league.name === sport).teams;
+    this.teams = this.sportsData['league'].find(league => league.name === sport).teams;
     console.log(this.teams);
   }
 
