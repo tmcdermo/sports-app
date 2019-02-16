@@ -1,3 +1,15 @@
+.details {
+    color: oldlace;    
+}
+
 ul {
     list-style-type: none;
+    color: oldlace;
+
+    padding: 5%;
+}
+
+.team-logo {
+    border: 5px black solid;
+    width: 50%;
 }

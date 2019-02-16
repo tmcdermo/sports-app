@@ -10,7 +10,8 @@
                     "state": "AZ",
                     "name": "Arizona Diamondbacks",
                     "conference": "National",
-                    "division": "West"
+                    "division": "West",
+                    "image": "assets/img/mlb/diamondbacks.gif"
                 },
                 {
                     "stadium": "Turner Field",
@@ -18,7 +19,8 @@
                     "state": "GA",
                     "name": "Atlanta Braves",
                     "conference": "National",
-                    "division": "East"
+                    "division": "East",
+                    "image": "assets/img/mlb/braves.gif"
                 },
                 {
                     "stadium": "Oriole Park at Camden Yards",
@@ -26,7 +28,8 @@
                     "state": "MD",
                     "name": "Baltimore Orioles",
                     "conference": "American",
-                    "division": "East"
+                    "division": "East",
+                    "image": "assets/img/mlb/orioles.gif"
                 },
                 {
                     "stadium": "Fenway Park",
@@ -34,7 +37,8 @@
                     "state": "MA",
                     "name": "Boston Red Sox",
                     "conference": "American",
-                    "division": "East"
+                    "division": "East",
+                    "image": "assets/img/mlb/redsox.gif"
                 },
                 {
                     "stadium": "Wrigley Field",
@@ -42,7 +46,8 @@
                     "state": "IL",
                     "name": "Chicago Cubs",
                     "conference": "National",
-                    "division": "Central"
+                    "division": "Central",
+                    "image": "assets/img/mlb/cubs.gif"
                 },
                 {
                     "stadium": "U.S. Cellular Field",
@@ -50,7 +55,8 @@
                     "state": "IL",
                     "name": "Chicago White Sox",
                     "conference": "American",
-                    "division": "Central"
+                    "division": "Central",
+                    "image": "assets/img/mlb/whitesox.gif"
                 },
                 {
                     "stadium": "Great American Ball Park",
@@ -58,7 +64,8 @@
                     "state": "OH",
                     "name": "Cincinnati Reds",
                     "conference": "National",
-                    "division": "Central"
+                    "division": "Central",
+                    "image": "assets/img/mlb/reds.gif"
                 },
                 {
                     "stadium": "Progressive Field",
@@ -66,7 +73,8 @@
                     "state": "OH",
                     "name": "Cleveland Indians",
                     "conference": "American",
-                    "division": "Central"
+                    "division": "Central",
+                    "image": "assets/img/mlb/indians.gif"
                 },
                 {
                     "stadium": "Coors Field",
@@ -74,7 +82,8 @@
                     "state": "CO",
                     "name": "Colorado Rockies",
                     "conference": "National",
-                    "division": "West"
+                    "division": "West",
+                    "image": "assets/img/mlb/rockies.gif"
                 },
                 {
                     "stadium": "Comerica Park",
@@ -82,7 +91,8 @@
                     "state": "MI",
                     "name": "Detroit Tigers",
                     "conference": "American",
-                    "division": "Central"
+                    "division": "Central",
+                    "image": "assets/img/mlb/tigers.gif"
                 },
                 {
                     "stadium": "Minute Maid Park",
@@ -90,7 +100,8 @@
                     "state": "TX",
                     "name": "Houston Astros",
                     "conference": "American",
-                    "division": "West"
+                    "division": "West",
+                    "image": "assets/img/mlb/astros.gif"
                 },
                 {
                     "stadium": "Kauffman Stadium",
@@ -98,7 +109,8 @@
                     "state": "MO",
                     "name": "Kansas City Royals",
                     "conference": "American",
-                    "division": "Central"
+                    "division": "Central",
+                    "image": "assets/img/mlb/royals.gif"
                 },
                 {
                     "stadium": "Angel Stadium of Anaheim",
@@ -106,7 +118,8 @@
                     "state": "CA",
                     "name": "Los Angeles Angels of Anaheim",
                     "conference": "American",
-                    "division": "West"
+                    "division": "West",
+                    "image": "assets/img/mlb/angels.gif"
                 },
                 {
                     "stadium": "Dodger Stadium",
@@ -114,7 +127,8 @@
                     "state": "CA",
                     "name": "Los Angeles Dodgers",
                     "conference": "National",
-                    "division": "West"
+                    "division": "West",
+                    "image": "assets/img/mlb/dodgers.gif"
                 },
                 {
                     "stadium": "Marlins Park",
@@ -122,7 +136,8 @@
                     "state": "FL",
                     "name": "Miami Marlins",
                     "conference": "National",
-                    "division": "East"
+                    "division": "East",
+                    "image": "assets/img/mlb/marlins.gif"
                 },
                 {
                     "stadium": "Miller Park",
@@ -130,7 +145,8 @@
                     "state": "WI",
                     "name": "Milwaukee Brewers",
                     "conference": "National",
-                    "division": "Central"
+                    "division": "Central",
+                    "image": "assets/img/mlb/brewers.gif"
                 },
                 {
                     "stadium": "Target Field",
@@ -138,7 +154,8 @@
                     "state": "MN",
                     "name": "Minnesota Twins",
                     "conference": "American",
-                    "division": "Central"
+                    "division": "Central",
+                    "image": "assets/img/mlb/twins.gif"
                 },
                 {
                     "stadium": "Citi Field",
@@ -146,7 +163,8 @@
                     "state": "NY",
                     "name": "New York Mets",
                     "conference": "National",
-                    "division": "East"
+                    "division": "East",
+                    "image": "assets/img/mlb/mets.gif"
                 },
                 {
                     "stadium": "Yankee Stadium",
@@ -154,7 +172,8 @@
                     "state": "NY",
                     "name": "New York Yankees",
                     "conference": "American",
-                    "division": "East"
+                    "division": "East",
+                    "image": "assets/img/mlb/yankees.gif"
                 },
                 {
                     "stadium": "Oakland Coliseum",
@@ -162,7 +181,8 @@
                     "state": "CA",
                     "name": "Oakland Athletics",
                     "conference": "American",
-                    "division": "West"
+                    "division": "West",
+                    "image": "assets/img/mlb/athletics.gif"
                 },
                 {
                     "stadium": "Citizens Bank Park",
@@ -170,7 +190,8 @@
                     "state": "PA",
                     "name": "Philadelphia Phillies",
                     "conference": "National",
-                    "division": "East"
+                    "division": "East",
+                    "image": "assets/img/mlb/phillies.gif"
                 },
                 {
                     "stadium": "PNC Park",
@@ -178,7 +199,8 @@
                     "state": "PA",
                     "name": "Pittsburgh Pirates",
                     "conference": "National",
-                    "division": "Central"
+                    "division": "Central",
+                    "image": "assets/img/mlb/pirates.gif"
                 },
                 {
                     "stadium": "Petco Park",
@@ -186,7 +208,8 @@
                     "state": "CA",
                     "name": "San Diego Padres",
                     "conference": "National",
-                    "division": "West"
+                    "division": "West",
+                    "image": "assets/img/mlb/padres.gif"
                 },
                 {
                     "stadium": "AT&T Park",
@@ -194,7 +217,8 @@
                     "state": "CA",
                     "name": "San Francisco Giants",
                     "conference": "National",
-                    "division": "West"
+                    "division": "West",
+                    "image": "assets/img/mlb/giants.gif"
                 },
                 {
                     "stadium": "Safeco Field",
@@ -202,7 +226,8 @@
                     "state": "WA",
                     "name": "Seattle Mariners",
                     "conference": "American",
-                    "division": "West"
+                    "division": "West",
+                    "image": "assets/img/mlb/mariners.gif"
                 },
                 {
                     "stadium": "Busch Stadium",
@@ -210,7 +235,8 @@
                     "state": "MO",
                     "name": "St. Louis Cardinals",
                     "conference": "National",
-                    "division": "Central"
+                    "division": "Central",
+                    "image": "assets/img/mlb/cardinals.gif"
                 },
                 {
                     "stadium": "Tropicana Field",
@@ -218,7 +244,8 @@
                     "state": "FL",
                     "name": "Tampa Bay Rays",
                     "conference": "American",
-                    "division": "East"
+                    "division": "East",
+                    "image": "assets/img/mlb/rays.gif"
                 },
                 {
                     "stadium": "Globe Life Park in Arlington",
@@ -226,7 +253,8 @@
                     "state": "TX",
                     "name": "Texas Rangers",
                     "conference": "American",
-                    "division": "West"
+                    "division": "West",
+                    "image": "assets/img/mlb/rangers.gif"
                 },
                 {
                     "stadium": "Rogers Centre",
@@ -234,7 +262,8 @@
                     "state": "ON",
                     "name": "Toronto Blue Jays",
                     "conference": "American",
-                    "division": "East"
+                    "division": "East",
+                    "image": "assets/img/mlb/bluejays.gif"
                 },
                 {
                     "stadium": "Nationals Park",
@@ -242,7 +271,8 @@
                     "state": "DC",
                     "name": "Washington Nationals",
                     "conference": "National",
-                    "division": "East"
+                    "division": "East",
+                    "image": "assets/img/mlb/nationals.gif"
                 }    
             ]
         },
@@ -255,7 +285,8 @@
                     "division": "East",
                     "city": "Orchard Park",
                     "state": "NY",
-                    "stadium": "New Era Field"
+                    "stadium": "New Era Field",
+                    "image": "assets/img/nfl/bills.gif"
                 },
                 {
                     "name": "Miami Dolphins",
@@ -263,7 +294,8 @@
                     "division": "East",
                     "city": "Miami Gardens",
                     "state": "FL",
-                    "stadium": "Sun Life Stadium"
+                    "stadium": "Sun Life Stadium",
+                    "image": "assets/img/nfl/dolphins.gif"
                 },
                 {
                     "name": "New England Patriots",
@@ -271,7 +303,8 @@
                     "division": "East",
                     "city": "Foxborough",
                     "state": "MA",
-                    "stadium": "Gillette Stadium"
+                    "stadium": "Gillette Stadium",
+                    "image": "assets/img/nfl/patriots.gif"
                 },
                 {
                     "name": "New York Jets",
@@ -279,7 +312,8 @@
                     "division": "East",
                     "city": "East Rutherford",
                     "state": "NJ",
-                    "stadium": "MetLife Stadium"
+                    "stadium": "MetLife Stadium",
+                    "image": "assets/img/nfl/jets.gif"
                 },
                 {
                     "name": "Baltimore Ravens",
@@ -287,7 +321,8 @@
                     "division": "North",
                     "city": "Baltimore",
                     "state": "MD",
-                    "stadium": "M&T Bank Stadium"
+                    "stadium": "M&T Bank Stadium",
+                    "image": "assets/img/nfl/ravens.gif"
                 },
                 {
                     "name": "Cincinnati Bengals",
@@ -295,7 +330,8 @@
                     "division": "North",
                     "city": "Cincinnati",
                     "state": "OH",
-                    "stadium": "Paul Brown Stadium"
+                    "stadium": "Paul Brown Stadium",
+                    "image": "assets/img/nfl/bengals.gif"
                 },
                 {
                     "name": "Cleveland Browns",
@@ -303,7 +339,8 @@
                     "division": "North",
                     "city": "Cleveland",
                     "state": "OH",
-                    "stadium": "FirstEnergy Stadium"
+                    "stadium": "FirstEnergy Stadium",
+                    "image": "assets/img/nfl/browns.gif"
                 },
                 {
                     "name": "Pittsburgh Steelers",
@@ -311,7 +348,8 @@
                     "division": "North",
                     "city": "Pittsburgh",
                     "state": "PA",
-                    "stadium": "Heinz Field"
+                    "stadium": "Heinz Field",
+                    "image": "assets/img/nfl/steelers.gif"
                 },
                 {
                     "name": "Houston Texans",
@@ -319,7 +357,8 @@
                     "division": "South",
                     "city": "Houston",
                     "state": "TX",
-                    "stadium": "NRG Stadium"
+                    "stadium": "NRG Stadium",
+                    "image": "assets/img/nfl/texans.gif"
                 },
                 {
                     "name": "Indianapolis Colts",
@@ -327,7 +366,8 @@
                     "division": "South",
                     "city": "Indianapolis",
                     "state": "IN",
-                    "stadium": "Lucas Oil Stadium"
+                    "stadium": "Lucas Oil Stadium",
+                    "image": "assets/img/nfl/colts.gif"
                 },
                 {
                     "name": "Jacksonville Jaguars",
@@ -335,7 +375,8 @@
                     "division": "South",
                     "city": "Jacksonville",
                     "state": "FL",
-                    "stadium": "EverBank Field"
+                    "stadium": "EverBank Field",
+                    "image": "assets/img/nfl/jaguars.gif"
                 },
                 {
                     "name": "Tennessee Titans",
@@ -343,7 +384,8 @@
                     "division": "South",
                     "city": "Nashville",
                     "state": "TN",
-                    "stadium": "Nissan Stadium"
+                    "stadium": "Nissan Stadium",
+                    "image": "assets/img/nfl/titans.gif"
                 },
                 {
                     "name": "Denver Broncos",
@@ -351,7 +393,8 @@
                     "division": "West",
                     "city": "Denver",
                     "state": "CO",
-                    "stadium": "Sports Authority Field at Mile High"
+                    "stadium": "Sports Authority Field at Mile High",
+                    "image": "assets/img/nfl/broncos.gif"
                 },
                 {
                     "name": "Kansas City Chiefs",
@@ -359,7 +402,8 @@
                     "division": "West",
                     "city": "Kansas City",
                     "state": "MO",
-                    "stadium": "Arrowhead Stadium"
+                    "stadium": "Arrowhead Stadium",
+                    "image": "assets/img/nfl/chiefs.gif"
                 },
                 {
                     "name": "Oakland Raiders",
@@ -367,7 +411,8 @@
                     "division": "West",
                     "city": "Oakland",
                     "state": "CA",
-                    "stadium": "Oakland Alemeda Coliseum"
+                    "stadium": "Oakland Alemeda Coliseum",
+                    "image": "assets/img/nfl/raiders.gif"
                 },
                 {
                     "name": "Los Angeles Chargers",
@@ -375,7 +420,8 @@
                     "division": "West",
                     "city": "Los Angeles",
                     "state": "CA",
-                    "stadium": "StubHub Center"
+                    "stadium": "StubHub Center",
+                    "image": "assets/img/nfl/chargers.gif"
                 },
                 {
                     "name": "Dallas Cowboys",
@@ -383,7 +429,8 @@
                     "division": "East",
                     "city": "Arlington",
                     "state": "TX",
-                    "stadium": "AT&T Stadium"
+                    "stadium": "AT&T Stadium",
+                    "image": "assets/img/nfl/cowboys.gif"
                 },
                 {
                     "name": "New York Giants",
@@ -391,7 +438,8 @@
                     "division": "East",
                     "city": "East Rutherford",
                     "state": "NJ",
-                    "stadium": "MetLife Stadium"
+                    "stadium": "MetLife Stadium",
+                    "image": "assets/img/nfl/giants.gif"
                 },
                 {
                     "name": "Philadelphia Eagles",
@@ -399,7 +447,8 @@
                     "division": "East",
                     "city": "Philadelphia",
                     "state": "PA",
-                    "stadium": "Lincoln Financial Field"
+                    "stadium": "Lincoln Financial Field",
+                    "image": "assets/img/nfl/eagles.gif"
                 },
                 {
                     "name": "Washington Redskins",
@@ -407,7 +456,8 @@
                     "division": "East",
                     "city": "Landover",
                     "state": "MD",
-                    "stadium": "FedExField"
+                    "stadium": "FedExField",
+                    "image": "assets/img/nfl/redskins.gif"
                 },
                 {
                     "name": "Chicago Bears",
@@ -415,7 +465,8 @@
                     "division": "North",
                     "city": "Chicago",
                     "state": "IL",
-                    "stadium": "Soldier Field"
+                    "stadium": "Soldier Field",
+                    "image": "assets/img/nfl/bears.gif"
                 },
                 {
                     "name": "Detroit Lions",
@@ -423,7 +474,8 @@
                     "division": "North",
                     "city": "Detroit",
                     "state": "MI",
-                    "stadium": "Ford Field"
+                    "stadium": "Ford Field",
+                    "image": "assets/img/nfl/lions.gif"
                 },
                 {
                     "name": "Green Bay Packers",
@@ -431,7 +483,8 @@
                     "division": "North",
                     "city": "Green Bay",
                     "state": "WI",
-                    "stadium": "Lambeau Field"
+                    "stadium": "Lambeau Field",
+                    "image": "assets/img/nfl/packers.gif"
                 },
                 {
                     "name": "Minnesota Vikings",
@@ -439,7 +492,8 @@
                     "division": "North",
                     "city": "Minneapolis",
                     "state": "MN",
-                    "stadium": "U.S. Bank Stadium"
+                    "stadium": "U.S. Bank Stadium",
+                    "image": "assets/img/nfl/vikings.gif"
                 },
                 {
                     "name": "Atlanta Falcons",
@@ -447,7 +501,8 @@
                     "division": "South",
                     "city": "Atlanta",
                     "state": "GA",
-                    "stadium": "Georgia Dome"
+                    "stadium": "Georgia Dome",
+                    "image": "assets/img/nfl/falcons.gif"
                 },
                 {
                     "name": "Carolina Panthers",
@@ -455,7 +510,8 @@
                     "division": "South",
                     "city": "Charlotte",
                     "state": "NC",
-                    "stadium": "Bank of America Stadium"
+                    "stadium": "Bank of America Stadium",
+                    "image": "assets/img/nfl/panthers.gif"
                 },
                 {
                     "name": "New Orleans Saints",
@@ -463,7 +519,8 @@
                     "division": "South",
                     "city": "New Orleans",
                     "state": "LA",
-                    "stadium": "Mercedes-Benz Superdome"
+                    "stadium": "Mercedes-Benz Superdome",
+                    "image": "assets/img/nfl/saints.gif"
                 },
                 {
                     "name": "Tampa Bay Buccaneers",
@@ -471,7 +528,8 @@
                     "division": "South",
                     "city": "Tampa",
                     "state": "FL",
-                    "stadium": "Raymond James Stadium"
+                    "stadium": "Raymond James Stadium",
+                    "image": "assets/img/nfl/buccaneers.gif"
                 },
                 {
                     "name": "Arizona Cardinals",
@@ -479,7 +537,8 @@
                     "division": "West",
                     "city": "Glendale",
                     "state": "AZ",
-                    "stadium": "University of Phoenix Stadium"
+                    "stadium": "University of Phoenix Stadium",
+                    "image": "assets/img/nfl/cardinals.gif"
                 },
                 {
                     "name": "Los Angeles Rams",
@@ -487,7 +546,8 @@
                     "division": "West",
                     "city": "Los Angeles",
                     "state": "CA",
-                    "stadium": "Los Angeles Memorial Coliseum"
+                    "stadium": "Los Angeles Memorial Coliseum",
+                    "image": "assets/img/nfl/rams.gif"
                 },
                 {
                     "name": "San Francisco 49ers",
@@ -495,7 +555,8 @@
                     "division": "West",
                     "city": "Santa Clara",
                     "state": "CA",
-                    "stadium": "Levi's Stadium"
+                    "stadium": "Levi's Stadium",
+                    "image": "assets/img/nfl/49ers.gif"
                 },
                 {
                     "name": "Seattle Seahawks",
@@ -503,7 +564,8 @@
                     "division": "West",
                     "city": "Seattle",
                     "state": "WA",
-                    "stadium": "CenturyLink Field"
+                    "stadium": "CenturyLink Field",
+                    "image": "assets/img/nfl/seahawks.gif"
             }   
             ]
         },
@@ -516,7 +578,8 @@
                     "name": "Boston Celtics",
                     "city": "Boston",
                     "state": "MA",
-                    "stadium": "TD Garden"
+                    "stadium": "TD Garden",
+                    "image": "assets/img/nba/celtics.gif"
                 },
                 {
                     "conference": "Eastern",
@@ -524,7 +587,8 @@
                     "name": "Brooklyn Nets",
                     "city": "New York",
                     "state": "NY",
-                    "stadium": "Barclays Center"
+                    "stadium": "Barclays Center",
+                    "image": "assets/img/nba/nets.gif"
                 },
                 {
                     "conference": "Eastern",
@@ -532,7 +596,8 @@
                     "name": "New York Knicks",
                     "city": "New York",
                     "state": "NY",
-                    "stadium": "Madison Square Garden"
+                    "stadium": "Madison Square Garden",
+                    "image": "assets/img/nba/knicks.gif"
                 },
                 {
                     "conference": "Eastern",
@@ -540,7 +605,8 @@
                     "name": "Philadelphia 76ers",
                     "city": "Philadelphia",
                     "state": "PA",
-                    "stadium": "Wells Fargo Center"
+                    "stadium": "Wells Fargo Center",
+                    "image": "assets/img/nba/76ers.gif"
                 },
                 {
                     "conference": "Eastern",
@@ -548,7 +614,8 @@
                     "name": "Toronto Raptors",
                     "city": "Toronto",
                     "state": "ON",
-                    "stadium": "Air Canada Centre"
+                    "stadium": "Air Canada Centre",
+                    "image": "assets/img/nba/raptors.gif"
                 },
                 {
                     "conference": "Eastern",
@@ -556,7 +623,8 @@
                     "name": "Chicago Bulls",
                     "city": "Chicago",
                     "state": "IL",
-                    "stadium": "United Center"
+                    "stadium": "United Center",
+                    "image": "assets/img/nba/bulls.gif"
                 },
                 {
                     "conference": "Eastern",
@@ -564,7 +632,8 @@
                     "name": "Cleveland Cavaliers",
                     "city": "Cleveland",
                     "state": "OH",
-                    "stadium": "Quicken Loans Arena"
+                    "stadium": "Quicken Loans Arena",
+                    "image": "assets/img/nba/cavaliers.gif"
                 },
                 {
                     "conference": "Eastern",
@@ -572,7 +641,8 @@
                     "name": "Detroit Pistons",
                     "city": "Auburn Hills",
                     "state": "MI",
-                    "stadium": "The Palace of Auburn Hills"
+                    "stadium": "The Palace of Auburn Hills",
+                    "image": "assets/img/nba/pistons.gif"
                 },
                 {
                     "conference": "Eastern",
@@ -580,7 +650,8 @@
                     "name": "Indiana Pacers",
                     "city": "Indianapolis",
                     "state": "IN",
-                    "stadium": "Bankers Life Fieldhouse"
+                    "stadium": "Bankers Life Fieldhouse",
+                    "image": "assets/img/nba/pacers.gif"
                 },
                 {
                     "conference": "Eastern",
@@ -588,7 +659,8 @@
                     "name": "Milwaukee Bucks",
                     "city": "Milwaukee",
                     "state": "WI",
-                    "stadium": "BMO Harris Bradley Center"
+                    "stadium": "BMO Harris Bradley Center",
+                    "image": "assets/img/nba/bucks.gif"
                 },
                 {
                     "conference": "Eastern",
@@ -596,7 +668,8 @@
                     "name": "Atlanta Hawks",
                     "city": "Atlanta",
                     "state": "GA",
-                    "stadium": "Philips Arena"
+                    "stadium": "Philips Arena",
+                    "image": "assets/img/nba/hawks.gif"
                 },
                 {
                     "conference": "Eastern",
@@ -604,7 +677,8 @@
                     "name": "Charlotte Hornets",
                     "city": "Charlotte",
                     "state": "NC",
-                    "stadium": "Spectrum Center"
+                    "stadium": "Spectrum Center",
+                    "image": "assets/img/nba/hornets.gif"
                 },
                 {
                     "conference": "Eastern",
@@ -612,7 +686,8 @@
                     "name": "Miami Heat",
                     "city": "Miami",
                     "state": "FL",
-                    "stadium": "American Airlines Arena"
+                    "stadium": "American Airlines Arena",
+                    "image": "assets/img/nba/heat.gif"
                 },
                 {
                     "conference": "Eastern",
@@ -620,14 +695,16 @@
                     "name": "Orlando Magic",
                     "city": "Orlando",
                     "state": "FL",
-                    "stadium": "Amway Center"
+                    "stadium": "Amway Center",
+                    "image": "assets/img/nba/magic.gif"
                 },
                 {
                     "conference": "Eastern",
                     "division": "Southeast",
                     "name": "Washington Wizards",
                     "city": "Washington, D.C.",
-                    "stadium": "Verizon Center"
+                    "stadium": "Verizon Center",
+                    "image": "assets/img/nba/wizards.gif"
                 },
                 {
                     "conference": "Western",
@@ -635,7 +712,8 @@
                     "name": "Denver Nuggets",
                     "city": "Denver",
                     "state": "CO",
-                    "stadium": "Pepsi Center"
+                    "stadium": "Pepsi Center",
+                    "image": "assets/img/nba/nuggets.gif"
                 },
                 {
                     "conference": "Western",
@@ -643,7 +721,8 @@
                     "name": "Minnesota Timberwolves",
                     "city": "Minneapolis",
                     "state": "MN",
-                    "stadium": "Target Center"
+                    "stadium": "Target Center",
+                    "image": "assets/img/nba/timberwolves.gif"
                 },
                 {
                     "conference": "Western",
@@ -651,7 +730,8 @@
                     "name": "Oklahoma City Thunder",
                     "city": "Oklahoma City",
                     "state": "OK",
-                    "stadium": "Chesapeake Energy Arena"
+                    "stadium": "Chesapeake Energy Arena",
+                    "image": "assets/img/nba/thunder.gif"
                 },
                 {
                     "conference": "Western",
@@ -659,7 +739,8 @@
                     "name": "Portland Trail Blazers",
                     "city": "Portland",
                     "state": "OR",
-                    "stadium": "Moda Center"
+                    "stadium": "Moda Center",
+                    "image": "assets/img/nba/trailblazers.gif"
                 },
                 {
                     "conference": "Western",
@@ -667,7 +748,8 @@
                     "name": "Utah Jazz",
                     "city": "Salt Lake City",
                     "state": "UT",
-                    "stadium": "Vivint Smart Home Arena"
+                    "stadium": "Vivint Smart Home Arena",
+                    "image": "assets/img/nba/jazz.gif"
                 },
                 {
                     "conference": "Western",
@@ -675,7 +757,8 @@
                     "name": "Golden State Warriors",
                     "city": "Oakland",
                     "state": "CA",
-                    "stadium": "Oracle Arena"
+                    "stadium": "Oracle Arena",
+                    "image": "assets/img/nba/warriors.gif"
                 },
                 {
                     "conference": "Western",
@@ -683,7 +766,8 @@
                     "name": "Los Angeles Clippers",
                     "city": "Los Angeles",
                     "state": "CA",
-                    "stadium": "Staples Center"
+                    "stadium": "Staples Center",
+                    "image": "assets/img/nba/clippers.gif"
                 },
                 {
                     "conference": "Western",
@@ -691,7 +775,8 @@
                     "name": "Los Angeles Lakers",
                     "city": "Los Angeles",
                     "state": "CA",
-                    "stadium": "Staples Center"
+                    "stadium": "Staples Center",
+                    "image": "assets/img/nba/lakers.gif"
                 },
                 {
                     "conference": "Western",
@@ -699,7 +784,8 @@
                     "name": "Phoenix Suns",
                     "city": "Phoenix",
                     "state": "AZ",
-                    "stadium": "Talking Stick Resort Arena"
+                    "stadium": "Talking Stick Resort Arena",
+                    "image": "assets/img/nba/suns.gif"
                 },
                 {
                     "conference": "Western",
@@ -707,7 +793,8 @@
                     "name": "Sacramento Kings",
                     "city": "Sacramento",
                     "state": "CA",
-                    "stadium": "Golden 1 Center"
+                    "stadium": "Golden 1 Center",
+                    "image": "assets/img/nba/kings.gif"
                 },
                 {
                     "conference": "Western",
@@ -715,7 +802,8 @@
                     "name": "Dallas Mavericks",
                     "city": "Dallas",
                     "state": "TX",
-                    "stadium": "American Airlines Center"
+                    "stadium": "American Airlines Center",
+                    "image": "assets/img/nba/mavericks.gif"
                 },
                 {
                     "conference": "Western",
@@ -723,7 +811,8 @@
                     "name": "Houston Rockets",
                     "city": "Houston",
                     "state": "TX",
-                    "stadium": "Toyota Center"
+                    "stadium": "Toyota Center",
+                    "image": "assets/img/nba/rockets.gif"
                 },
                 {
                     "conference": "Western",
@@ -731,7 +820,8 @@
                     "name": "Memphis Grizzlies",
                     "city": "Memphis",
                     "state": "TN",
-                    "stadium": "FedExForum"
+                    "stadium": "FedExForum",
+                    "image": "assets/img/nba/grizzlies.gif"
                 },
                 {
                     "conference": "Western",
@@ -739,7 +829,8 @@
                     "name": "New Orleans Pelicans",
                     "city": "New Orleans",
                     "state": "LA",
-                    "stadium": "Smoothie King Center"
+                    "stadium": "Smoothie King Center",
+                    "image": "assets/img/nba/pelicans.gif"
                 },
                 {
                     "conference": "Western",
@@ -747,7 +838,8 @@
                     "name": "San Antonio Spurs",
                     "city": "San Antonio",
                     "state": "TX",
-                    "stadium": "AT&T Center"
+                    "stadium": "AT&T Center",
+                    "image": "assets/img/nba/spurs.gif"
             }    
             ]
         },
@@ -760,7 +852,8 @@
                     "conference": "Eastern",
                     "division": "Atlantic",
                     "name": "Boston Bruins",
-                    "stadium": "TD Garden"
+                    "stadium": "TD Garden",
+                    "image": "assets/img/nhl/bruins.gif"
                 },
                 {
                     "city": "Buffalo",
@@ -768,7 +861,8 @@
                     "conference": "Eastern",
                     "division": "Atlantic",
                     "name": "Buffalo Sabres",
-                    "stadium": "KeyBank Center"
+                    "stadium": "KeyBank Center",
+                    "image": "assets/img/nhl/sabres.gif"
                 },
                 {
                     "city": "Detroit",
@@ -776,7 +870,8 @@
                     "conference": "Eastern",
                     "division": "Atlantic",
                     "name": "Detroit Red Wings",
-                    "stadium": "Joe Louis Arena"
+                    "stadium": "Joe Louis Arena",
+                    "image": "assets/img/nhl/redwings.gif"
                 },
                 {
                     "city": "Sunrise",
@@ -784,7 +879,8 @@
                     "conference": "Eastern",
                     "division": "Atlantic",
                     "name": "Florida Panthers",
-                    "stadium": "BB&T Center"
+                    "stadium": "BB&T Center",
+                    "image": "assets/img/nhl/panthers.gif"
                 },
                 {
                     "city": "Montreal",
@@ -792,7 +888,8 @@
                     "conference": "Eastern",
                     "division": "Atlantic",
                     "name": "Montreal Canadiens",
-                    "stadium": "Bell Centre"
+                    "stadium": "Bell Centre",
+                    "image": "assets/img/nhl/canadiens.gif"
                 },
                 {
                     "city": "Ottawa",
@@ -800,7 +897,8 @@
                     "conference": "Eastern",
                     "division": "Atlantic",
                     "name": "Ottawa Senators",
-                    "stadium": "Canadian Tire Centre"
+                    "stadium": "Canadian Tire Centre",
+                    "image": "assets/img/nhl/senators.gif"
                 },
                 {
                     "city": "Tampa",
@@ -808,7 +906,8 @@
                     "conference": "Eastern",
                     "division": "Atlantic",
                     "name": "Tampa Bay Lightning",
-                    "stadium": "Amalie Arena"
+                    "stadium": "Amalie Arena",
+                    "image": "assets/img/nhl/lightning.gif"
                 },
                 {
                     "city": "Toronto",
@@ -816,7 +915,8 @@
                     "conference": "Eastern",
                     "division": "Atlantic",
                     "name": "Toronto Maple Leafs",
-                    "stadium": "Air Canada Centre"
+                    "stadium": "Air Canada Centre",
+                    "image": "assets/img/nhl/mapleleafs.gif"
                 },
                 {
                     "city": "Raleigh",
@@ -824,7 +924,8 @@
                     "conference": "Eastern",
                     "division": "Metropolitan",
                     "name": "Carolina Hurricanes",
-                    "stadium": "PNC Arena"
+                    "stadium": "PNC Arena",
+                    "image": "assets/img/nhl/hurricanes.gif"
                 },
                 {
                     "city": "Columbus",
@@ -832,7 +933,8 @@
                     "conference": "Eastern",
                     "division": "Metropolitan",
                     "name": "Columbus Blue Jackets",
-                    "stadium": "Nationwide Arena"
+                    "stadium": "Nationwide Arena",
+                    "image": "assets/img/nhl/bluejackets.gif"
                 },
                 {
                     "city": "Newark",
@@ -840,7 +942,8 @@
                     "conference": "Eastern",
                     "division": "Metropolitan",
                     "name": "New Jersey Devils",
-                    "stadium": "Prudential Center"
+                    "stadium": "Prudential Center",
+                    "image": "assets/img/nhl/devils.gif"
                 },
                 {
                     "city": "New York",
@@ -848,7 +951,8 @@
                     "conference": "Eastern",
                     "division": "Metropolitan",
                     "name": "New York Islanders",
-                    "stadium": "Barclays Center"
+                    "stadium": "Barclays Center",
+                    "image": "assets/img/nhl/islanders.gif"
                 },
                 {
                     "city": "New York",
@@ -856,7 +960,8 @@
                     "conference": "Eastern",
                     "division": "Metropolitan",
                     "name": "New York Rangers",
-                    "stadium": "Madison Square Garden"
+                    "stadium": "Madison Square Garden",
+                    "image": "assets/img/nhl/rangers.gif"
                 },
                 {
                     "city": "Philadelphia",
@@ -864,7 +969,8 @@
                     "conference": "Eastern",
                     "division": "Metropolitan",
                     "name": "Philadelphia Flyers",
-                    "stadium": "Wells Fargo Center"
+                    "stadium": "Wells Fargo Center",
+                    "image": "assets/img/nhl/flyers.gif"
                 },
                 {
                     "city": "Pittsburgh",
@@ -872,14 +978,16 @@
                     "conference": "Eastern",
                     "division": "Metropolitan",
                     "name": "Pittsburgh Penguins",
-                    "stadium": "Consol Energy Center"
+                    "stadium": "Consol Energy Center",
+                    "image": "assets/img/nhl/penguins.gif"
                 },
                 {
                     "city": "Washington, D.C.",
                     "conference": "Eastern",
                     "division": "Metropolitan",
                     "name": "Washington Capitals",
-                    "stadium": "Verizon Center"
+                    "stadium": "Verizon Center",
+                    "image": "assets/img/nhl/capitals.gif"
                 },
                 {
                     "city": "Anaheim",
@@ -887,7 +995,8 @@
                     "conference": "Western",
                     "division": "Pacific",
                     "name": "Anaheim Ducks",
-                    "stadium": "Honda Center"
+                    "stadium": "Honda Center",
+                    "image": "assets/img/nhl/ducks.gif"
                 },
                 {
                     "city": "Glendale",
@@ -895,7 +1004,8 @@
                     "conference": "Western",
                     "division": "Pacific",
                     "name": "Arizona Coyotes",
-                    "stadium": "Gila River Arena"
+                    "stadium": "Gila River Arena",
+                    "image": "assets/img/nhl/coyotes.gif"
                 },
                 {
                     "city": "Calgary",
@@ -903,7 +1013,8 @@
                     "conference": "Western",
                     "division": "Pacific",
                     "name": "Calgary Flames",
-                    "stadium": "Scotiabank Saddledome"
+                    "stadium": "Scotiabank Saddledome",
+                    "image": "assets/img/nhl/flames.gif"
                 },
                 {
                     "city": "Edmonton",
@@ -911,7 +1022,8 @@
                     "conference": "Western",
                     "division": "Pacific",
                     "name": "Edmonton Oilers",
-                    "stadium": "Rogers Place"
+                    "stadium": "Rogers Place",
+                    "image": "assets/img/nhl/oilers.gif"
                 },
                 {
                     "city": "Los Angeles",
@@ -919,7 +1031,8 @@
                     "conference": "Western",
                     "division": "Pacific",
                     "name": "Los Angeles Kings",
-                    "stadium": "Staples Center"
+                    "stadium": "Staples Center",
+                    "image": "assets/img/nhl/kings.gif"
                 },
                 {
                     "city": "San Jose",
@@ -927,7 +1040,8 @@
                     "conference": "Western",
                     "division": "Pacific",
                     "name": "San Jose Sharks",
-                    "stadium": "SAP Center at San Jose"
+                    "stadium": "SAP Center at San Jose",
+                    "image": "assets/img/nhl/sharks.gif"
                 },
                 {
                     "city": "Vancouver",
@@ -935,7 +1049,8 @@
                     "conference": "Western",
                     "division": "Pacific",
                     "name": "Vancouver Canucks",
-                    "stadium": "Rogers Arena"
+                    "stadium": "Rogers Arena",
+                    "image": "assets/img/nhl/canucks.gif"
                 },
                 {
                     "city": "Chicago",
@@ -943,7 +1058,8 @@
                     "conference": "Western",
                     "division": "Central",
                     "name": "Chicago Blackhawks",
-                    "stadium": "United Center"
+                    "stadium": "United Center",
+                    "image": "assets/img/nhl/blackhawks.gif"
                 },
                 {
                     "city": "Denver",
@@ -951,7 +1067,8 @@
                     "conference": "Western",
                     "division": "Central",
                     "name": "Colorado Avalanche",
-                    "stadium": "Pepsi Center"
+                    "stadium": "Pepsi Center",
+                    "image": "assets/img/nhl/avalanche.gif"
                 },
                 {
                     "city": "Dallas",
@@ -959,7 +1076,8 @@
                     "conference": "Western",
                     "division": "Central",
                     "name": "Dallas Stars",
-                    "stadium": "American Airlines Center"
+                    "stadium": "American Airlines Center",
+                    "image": "assets/img/nhl/stars.gif"
                 },
                 {
                     "city": "St. Paul",
@@ -967,7 +1085,8 @@
                     "conference": "Western",
                     "division": "Central",
                     "name": "Minnesota Wild",
-                    "stadium": "Xcel Energy Center"
+                    "stadium": "Xcel Energy Center",
+                    "image": "assets/img/nhl/wild.gif"
                 },
                 {
                     "city": "Nashville",
@@ -975,7 +1094,8 @@
                     "conference": "Western",
                     "division": "Central",
                     "name": "Nashville Predators",
-                    "stadium": "Bridgestone Arena"
+                    "stadium": "Bridgestone Arena",
+                    "image": "assets/img/nhl/predators.gif"
                 },
                 {
                     "city": "St. Louis",
@@ -983,7 +1103,8 @@
                     "conference": "Western",
                     "division": "Central",
                     "name": "St. Louis Blues",
-                    "stadium": "Scottrade Center"
+                    "stadium": "Scottrade Center",
+                    "image": "assets/img/nhl/blues.gif"
                 },
                 {
                     "city": "Winnipeg",
@@ -991,7 +1112,8 @@
                     "conference": "Western",
                     "division": "Central",
                     "name": "Winnipeg Jets",
-                    "stadium": "MTS Centre"
+                    "stadium": "MTS Centre",
+                    "image": "assets/img/nhl/jets.gif"
             }    
             ]
         }
