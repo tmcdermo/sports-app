@@ -39,7 +39,6 @@ export class AppComponent implements OnInit {
     this.currentSport = sport.name;
     this.showTeams = true;
     this.teams = this.sportsData['league'].find(league => league.name === sport.name).teams;
-    console.log(this.teams);
   }
 
   selectTeam(team: object) {

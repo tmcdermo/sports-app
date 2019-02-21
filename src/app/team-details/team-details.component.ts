@@ -7,6 +7,7 @@ import { Component, Input } from '@angular/core';
 })
 export class TeamDetailsComponent {
   @Input() team: object;
+  @Input() sport: string;
 
   constructor() { }
 

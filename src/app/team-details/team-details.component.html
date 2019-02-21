@@ -1,11 +1,16 @@
 <div class="container mt-5">
-  <div class="row">
-    <img class="team-logo" [src]="team.image" alt="{{team.name}} logo" />
-    <ul class="">
+  <div class="row justify-content-center">
+    <img class="team-logo col-xs-10 col-md-5" [src]="team.image" alt="{{team.name}} logo" />
+  </div>
+  <div class="row justify-content-center text-center">
+    <ul class="p-0">
       <li><h2>{{ team.name }}</h2></li>
       <li>{{ team.city }}, {{ team.state }}</li>
       <li>{{ team.stadium }}</li>
       <li>{{ team.conference }} {{ team.division }}</li>
     </ul>
+  </div>
+  <div class="row text-center justify-content-center">
+    <app-game-list [sport]="sport" [team]="team"></app-game-list>
   </div>
 </div>
