@@ -1,9 +1,26 @@
 import { Injectable } from '@angular/core';
+import { Observable, of } from 'rxjs';
+import { catchError, map, tap } from 'rxjs/operators';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
 
+import { Game } from './game';
+import { strictEqual } from 'assert';
+
+const httpOptions = {
+  headers: new HttpHeaders({ 'Authorization': `Basic ${btoa('mcdermot:password')}` })
+};
 @Injectable({
   providedIn: 'root'
 })
 export class GameService {
+  private baseUrl = 'https://api.mysportsfeeds.com/v1.2/pull/';
 
-  constructor() { }
+
+  constructor(private http: HttpClient) { }
+
+  getGames(sport: string, abbrv: string): Observable<Game[]> {
+    const url = this.baseUrl + sport + '/latest/full_game_schedule.json';
+    const query = '?date=from-7-days-ago-to-7-days-from-now&team=' + abbrv;
+    return this.http.get<Game[]>(url + query, httpOptions);
+  }
 }

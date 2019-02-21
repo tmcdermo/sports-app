@@ -11,7 +11,8 @@
                     "name": "Arizona Diamondbacks",
                     "conference": "National",
                     "division": "West",
-                    "image": "assets/img/mlb/diamondbacks.gif"
+                    "image": "assets/img/mlb/diamondbacks.gif",
+                    "abbreviation": "ARI"
                 },
                 {
                     "stadium": "Turner Field",
@@ -20,7 +21,8 @@
                     "name": "Atlanta Braves",
                     "conference": "National",
                     "division": "East",
-                    "image": "assets/img/mlb/braves.gif"
+                    "image": "assets/img/mlb/braves.gif",
+                    "abbreviation": "ATL"
                 },
                 {
                     "stadium": "Oriole Park at Camden Yards",
@@ -29,7 +31,8 @@
                     "name": "Baltimore Orioles",
                     "conference": "American",
                     "division": "East",
-                    "image": "assets/img/mlb/orioles.gif"
+                    "image": "assets/img/mlb/orioles.gif",
+                    "abbreviation": "BAL"
                 },
                 {
                     "stadium": "Fenway Park",
@@ -38,7 +41,8 @@
                     "name": "Boston Red Sox",
                     "conference": "American",
                     "division": "East",
-                    "image": "assets/img/mlb/redsox.gif"
+                    "image": "assets/img/mlb/redsox.gif",
+                    "abbreviation": "BOS"
                 },
                 {
                     "stadium": "Wrigley Field",
@@ -47,7 +51,8 @@
                     "name": "Chicago Cubs",
                     "conference": "National",
                     "division": "Central",
-                    "image": "assets/img/mlb/cubs.gif"
+                    "image": "assets/img/mlb/cubs.gif",
+                    "abbreviation": "CHC"
                 },
                 {
                     "stadium": "U.S. Cellular Field",
@@ -56,7 +61,8 @@
                     "name": "Chicago White Sox",
                     "conference": "American",
                     "division": "Central",
-                    "image": "assets/img/mlb/whitesox.gif"
+                    "image": "assets/img/mlb/whitesox.gif",
+                    "abbreviation": "CWS"
                 },
                 {
                     "stadium": "Great American Ball Park",
@@ -65,7 +71,8 @@
                     "name": "Cincinnati Reds",
                     "conference": "National",
                     "division": "Central",
-                    "image": "assets/img/mlb/reds.gif"
+                    "image": "assets/img/mlb/reds.gif",
+                    "abbreviation": "CIN"
                 },
                 {
                     "stadium": "Progressive Field",
@@ -74,7 +81,8 @@
                     "name": "Cleveland Indians",
                     "conference": "American",
                     "division": "Central",
-                    "image": "assets/img/mlb/indians.gif"
+                    "image": "assets/img/mlb/indians.gif",
+                    "abbreviation": "CLE"
                 },
                 {
                     "stadium": "Coors Field",
@@ -83,7 +91,8 @@
                     "name": "Colorado Rockies",
                     "conference": "National",
                     "division": "West",
-                    "image": "assets/img/mlb/rockies.gif"
+                    "image": "assets/img/mlb/rockies.gif",
+                    "abbreviation": "COL"
                 },
                 {
                     "stadium": "Comerica Park",
@@ -92,7 +101,8 @@
                     "name": "Detroit Tigers",
                     "conference": "American",
                     "division": "Central",
-                    "image": "assets/img/mlb/tigers.gif"
+                    "image": "assets/img/mlb/tigers.gif",
+                    "abbreviation": "DET"
                 },
                 {
                     "stadium": "Minute Maid Park",
@@ -101,7 +111,8 @@
                     "name": "Houston Astros",
                     "conference": "American",
                     "division": "West",
-                    "image": "assets/img/mlb/astros.gif"
+                    "image": "assets/img/mlb/astros.gif",
+                    "abbreviation": "HOU"
                 },
                 {
                     "stadium": "Kauffman Stadium",
@@ -110,7 +121,8 @@
                     "name": "Kansas City Royals",
                     "conference": "American",
                     "division": "Central",
-                    "image": "assets/img/mlb/royals.gif"
+                    "image": "assets/img/mlb/royals.gif",
+                    "abbreviation": "KC"
                 },
                 {
                     "stadium": "Angel Stadium of Anaheim",
@@ -119,7 +131,8 @@
                     "name": "Los Angeles Angels of Anaheim",
                     "conference": "American",
                     "division": "West",
-                    "image": "assets/img/mlb/angels.gif"
+                    "image": "assets/img/mlb/angels.gif",
+                    "abbreviation": "LAA"
                 },
                 {
                     "stadium": "Dodger Stadium",
@@ -128,7 +141,8 @@
                     "name": "Los Angeles Dodgers",
                     "conference": "National",
                     "division": "West",
-                    "image": "assets/img/mlb/dodgers.gif"
+                    "image": "assets/img/mlb/dodgers.gif",
+                    "abbreviation": "LAD"
                 },
                 {
                     "stadium": "Marlins Park",
@@ -137,7 +151,8 @@
                     "name": "Miami Marlins",
                     "conference": "National",
                     "division": "East",
-                    "image": "assets/img/mlb/marlins.gif"
+                    "image": "assets/img/mlb/marlins.gif",
+                    "abbreviation": "MIA"
                 },
                 {
                     "stadium": "Miller Park",
@@ -146,7 +161,8 @@
                     "name": "Milwaukee Brewers",
                     "conference": "National",
                     "division": "Central",
-                    "image": "assets/img/mlb/brewers.gif"
+                    "image": "assets/img/mlb/brewers.gif",
+                    "abbreviation": "MIL"
                 },
                 {
                     "stadium": "Target Field",
@@ -155,7 +171,8 @@
                     "name": "Minnesota Twins",
                     "conference": "American",
                     "division": "Central",
-                    "image": "assets/img/mlb/twins.gif"
+                    "image": "assets/img/mlb/twins.gif",
+                    "abbreviation": "MIN"
                 },
                 {
                     "stadium": "Citi Field",
@@ -164,7 +181,8 @@
                     "name": "New York Mets",
                     "conference": "National",
                     "division": "East",
-                    "image": "assets/img/mlb/mets.gif"
+                    "image": "assets/img/mlb/mets.gif",
+                    "abbreviation": "NYM"
                 },
                 {
                     "stadium": "Yankee Stadium",
@@ -173,7 +191,8 @@
                     "name": "New York Yankees",
                     "conference": "American",
                     "division": "East",
-                    "image": "assets/img/mlb/yankees.gif"
+                    "image": "assets/img/mlb/yankees.gif",
+                    "abbreviation": "NYY"
                 },
                 {
                     "stadium": "Oakland Coliseum",
@@ -182,7 +201,8 @@
                     "name": "Oakland Athletics",
                     "conference": "American",
                     "division": "West",
-                    "image": "assets/img/mlb/athletics.gif"
+                    "image": "assets/img/mlb/athletics.gif",
+                    "abbreviation": "OAK"
                 },
                 {
                     "stadium": "Citizens Bank Park",
@@ -191,7 +211,8 @@
                     "name": "Philadelphia Phillies",
                     "conference": "National",
                     "division": "East",
-                    "image": "assets/img/mlb/phillies.gif"
+                    "image": "assets/img/mlb/phillies.gif",
+                    "abbreviation": "PHI"
                 },
                 {
                     "stadium": "PNC Park",
@@ -200,7 +221,8 @@
                     "name": "Pittsburgh Pirates",
                     "conference": "National",
                     "division": "Central",
-                    "image": "assets/img/mlb/pirates.gif"
+                    "image": "assets/img/mlb/pirates.gif",
+                    "abbreviation": "PIT"
                 },
                 {
                     "stadium": "Petco Park",
@@ -209,7 +231,8 @@
                     "name": "San Diego Padres",
                     "conference": "National",
                     "division": "West",
-                    "image": "assets/img/mlb/padres.gif"
+                    "image": "assets/img/mlb/padres.gif",
+                    "abbreviation": "SD"
                 },
                 {
                     "stadium": "AT&T Park",
@@ -218,7 +241,8 @@
                     "name": "San Francisco Giants",
                     "conference": "National",
                     "division": "West",
-                    "image": "assets/img/mlb/giants.gif"
+                    "image": "assets/img/mlb/giants.gif",
+                    "abbreviation": "SF"
                 },
                 {
                     "stadium": "Safeco Field",
@@ -227,7 +251,8 @@
                     "name": "Seattle Mariners",
                     "conference": "American",
                     "division": "West",
-                    "image": "assets/img/mlb/mariners.gif"
+                    "image": "assets/img/mlb/mariners.gif",
+                    "abbreviation": "SEA"
                 },
                 {
                     "stadium": "Busch Stadium",
@@ -236,7 +261,8 @@
                     "name": "St. Louis Cardinals",
                     "conference": "National",
                     "division": "Central",
-                    "image": "assets/img/mlb/cardinals.gif"
+                    "image": "assets/img/mlb/cardinals.gif",
+                    "abbreviation": "STL"
                 },
                 {
                     "stadium": "Tropicana Field",
@@ -245,7 +271,8 @@
                     "name": "Tampa Bay Rays",
                     "conference": "American",
                     "division": "East",
-                    "image": "assets/img/mlb/rays.gif"
+                    "image": "assets/img/mlb/rays.gif",
+                    "abbreviation": "TB"
                 },
                 {
                     "stadium": "Globe Life Park in Arlington",
@@ -254,7 +281,8 @@
                     "name": "Texas Rangers",
                     "conference": "American",
                     "division": "West",
-                    "image": "assets/img/mlb/rangers.gif"
+                    "image": "assets/img/mlb/rangers.gif",
+                    "abbreviation": "TEX"
                 },
                 {
                     "stadium": "Rogers Centre",
@@ -263,7 +291,8 @@
                     "name": "Toronto Blue Jays",
                     "conference": "American",
                     "division": "East",
-                    "image": "assets/img/mlb/bluejays.gif"
+                    "image": "assets/img/mlb/bluejays.gif",
+                    "abbreviation": "TOR"
                 },
                 {
                     "stadium": "Nationals Park",
@@ -272,7 +301,8 @@
                     "name": "Washington Nationals",
                     "conference": "National",
                     "division": "East",
-                    "image": "assets/img/mlb/nationals.gif"
+                    "image": "assets/img/mlb/nationals.gif",
+                    "abbreviation": "WAS"
                 }    
             ]
         },
@@ -286,7 +316,8 @@
                     "city": "Orchard Park",
                     "state": "NY",
                     "stadium": "New Era Field",
-                    "image": "assets/img/nfl/bills.gif"
+                    "image": "assets/img/nfl/bills.gif",
+                    "abbreviation": "BUF"
                 },
                 {
                     "name": "Miami Dolphins",
@@ -295,7 +326,8 @@
                     "city": "Miami Gardens",
                     "state": "FL",
                     "stadium": "Sun Life Stadium",
-                    "image": "assets/img/nfl/dolphins.gif"
+                    "image": "assets/img/nfl/dolphins.gif",
+                    "abbreviation": "MIA"
                 },
                 {
                     "name": "New England Patriots",
@@ -304,7 +336,8 @@
                     "city": "Foxborough",
                     "state": "MA",
                     "stadium": "Gillette Stadium",
-                    "image": "assets/img/nfl/patriots.gif"
+                    "image": "assets/img/nfl/patriots.gif",
+                    "abbreviation": "NE"
                 },
                 {
                     "name": "New York Jets",
@@ -313,7 +346,8 @@
                     "city": "East Rutherford",
                     "state": "NJ",
                     "stadium": "MetLife Stadium",
-                    "image": "assets/img/nfl/jets.gif"
+                    "image": "assets/img/nfl/jets.gif",
+                    "abbreviation": "NYJ"
                 },
                 {
                     "name": "Baltimore Ravens",
@@ -322,7 +356,8 @@
                     "city": "Baltimore",
                     "state": "MD",
                     "stadium": "M&T Bank Stadium",
-                    "image": "assets/img/nfl/ravens.gif"
+                    "image": "assets/img/nfl/ravens.gif",
+                    "abbreviation": "BAL"
                 },
                 {
                     "name": "Cincinnati Bengals",
@@ -331,7 +366,8 @@
                     "city": "Cincinnati",
                     "state": "OH",
                     "stadium": "Paul Brown Stadium",
-                    "image": "assets/img/nfl/bengals.gif"
+                    "image": "assets/img/nfl/bengals.gif",
+                    "abbreviation": "CIN"
                 },
                 {
                     "name": "Cleveland Browns",
@@ -340,7 +376,8 @@
                     "city": "Cleveland",
                     "state": "OH",
                     "stadium": "FirstEnergy Stadium",
-                    "image": "assets/img/nfl/browns.gif"
+                    "image": "assets/img/nfl/browns.gif",
+                    "abbreviation": "CLE"
                 },
                 {
                     "name": "Pittsburgh Steelers",
@@ -349,7 +386,8 @@
                     "city": "Pittsburgh",
                     "state": "PA",
                     "stadium": "Heinz Field",
-                    "image": "assets/img/nfl/steelers.gif"
+                    "image": "assets/img/nfl/steelers.gif",
+                    "abbreviation": "PIT"
                 },
                 {
                     "name": "Houston Texans",
@@ -358,7 +396,8 @@
                     "city": "Houston",
                     "state": "TX",
                     "stadium": "NRG Stadium",
-                    "image": "assets/img/nfl/texans.gif"
+                    "image": "assets/img/nfl/texans.gif",
+                    "abbreviation": "HOU"
                 },
                 {
                     "name": "Indianapolis Colts",
@@ -367,7 +406,8 @@
                     "city": "Indianapolis",
                     "state": "IN",
                     "stadium": "Lucas Oil Stadium",
-                    "image": "assets/img/nfl/colts.gif"
+                    "image": "assets/img/nfl/colts.gif",
+                    "abbreviation": "IND"
                 },
                 {
                     "name": "Jacksonville Jaguars",
@@ -376,7 +416,8 @@
                     "city": "Jacksonville",
                     "state": "FL",
                     "stadium": "EverBank Field",
-                    "image": "assets/img/nfl/jaguars.gif"
+                    "image": "assets/img/nfl/jaguars.gif",
+                    "abbreviation": "JAX"
                 },
                 {
                     "name": "Tennessee Titans",
@@ -385,7 +426,8 @@
                     "city": "Nashville",
                     "state": "TN",
                     "stadium": "Nissan Stadium",
-                    "image": "assets/img/nfl/titans.gif"
+                    "image": "assets/img/nfl/titans.gif",
+                    "abbreviation": "TEN"
                 },
                 {
                     "name": "Denver Broncos",
@@ -394,7 +436,8 @@
                     "city": "Denver",
                     "state": "CO",
                     "stadium": "Sports Authority Field at Mile High",
-                    "image": "assets/img/nfl/broncos.gif"
+                    "image": "assets/img/nfl/broncos.gif",
+                    "abbreviation": "DEN"
                 },
                 {
                     "name": "Kansas City Chiefs",
@@ -403,7 +446,8 @@
                     "city": "Kansas City",
                     "state": "MO",
                     "stadium": "Arrowhead Stadium",
-                    "image": "assets/img/nfl/chiefs.gif"
+                    "image": "assets/img/nfl/chiefs.gif",
+                    "abbreviation": "KC"
                 },
                 {
                     "name": "Oakland Raiders",
@@ -412,7 +456,8 @@
                     "city": "Oakland",
                     "state": "CA",
                     "stadium": "Oakland Alemeda Coliseum",
-                    "image": "assets/img/nfl/raiders.gif"
+                    "image": "assets/img/nfl/raiders.gif",
+                    "abbreviation": "OAK"
                 },
                 {
                     "name": "Los Angeles Chargers",
@@ -421,7 +466,8 @@
                     "city": "Los Angeles",
                     "state": "CA",
                     "stadium": "StubHub Center",
-                    "image": "assets/img/nfl/chargers.gif"
+                    "image": "assets/img/nfl/chargers.gif",
+                    "abbreviation": "LAC"
                 },
                 {
                     "name": "Dallas Cowboys",
@@ -430,7 +476,8 @@
                     "city": "Arlington",
                     "state": "TX",
                     "stadium": "AT&T Stadium",
-                    "image": "assets/img/nfl/cowboys.gif"
+                    "image": "assets/img/nfl/cowboys.gif",
+                    "abbreviation": "DAL"
                 },
                 {
                     "name": "New York Giants",
@@ -439,7 +486,8 @@
                     "city": "East Rutherford",
                     "state": "NJ",
                     "stadium": "MetLife Stadium",
-                    "image": "assets/img/nfl/giants.gif"
+                    "image": "assets/img/nfl/giants.gif",
+                    "abbreviation": "NYG"
                 },
                 {
                     "name": "Philadelphia Eagles",
@@ -448,7 +496,8 @@
                     "city": "Philadelphia",
                     "state": "PA",
                     "stadium": "Lincoln Financial Field",
-                    "image": "assets/img/nfl/eagles.gif"
+                    "image": "assets/img/nfl/eagles.gif",
+                    "abbreviation": "PHI"
                 },
                 {
                     "name": "Washington Redskins",
@@ -457,7 +506,8 @@
                     "city": "Landover",
                     "state": "MD",
                     "stadium": "FedExField",
-                    "image": "assets/img/nfl/redskins.gif"
+                    "image": "assets/img/nfl/redskins.gif",
+                    "abbreviation": "WAS"
                 },
                 {
                     "name": "Chicago Bears",
@@ -466,7 +516,8 @@
                     "city": "Chicago",
                     "state": "IL",
                     "stadium": "Soldier Field",
-                    "image": "assets/img/nfl/bears.gif"
+                    "image": "assets/img/nfl/bears.gif",
+                    "abbreviation": "CHI"
                 },
                 {
                     "name": "Detroit Lions",
@@ -475,7 +526,8 @@
                     "city": "Detroit",
                     "state": "MI",
                     "stadium": "Ford Field",
-                    "image": "assets/img/nfl/lions.gif"
+                    "image": "assets/img/nfl/lions.gif",
+                    "abbreviation": "DET"
                 },
                 {
                     "name": "Green Bay Packers",
@@ -484,7 +536,8 @@
                     "city": "Green Bay",
                     "state": "WI",
                     "stadium": "Lambeau Field",
-                    "image": "assets/img/nfl/packers.gif"
+                    "image": "assets/img/nfl/packers.gif",
+                    "abbreviation": "GB"
                 },
                 {
                     "name": "Minnesota Vikings",
@@ -493,7 +546,8 @@
                     "city": "Minneapolis",
                     "state": "MN",
                     "stadium": "U.S. Bank Stadium",
-                    "image": "assets/img/nfl/vikings.gif"
+                    "image": "assets/img/nfl/vikings.gif",
+                    "abbreviation": "MIN"
                 },
                 {
                     "name": "Atlanta Falcons",
@@ -502,7 +556,8 @@
                     "city": "Atlanta",
                     "state": "GA",
                     "stadium": "Georgia Dome",
-                    "image": "assets/img/nfl/falcons.gif"
+                    "image": "assets/img/nfl/falcons.gif",
+                    "abbreviation": "ATL"
                 },
                 {
                     "name": "Carolina Panthers",
@@ -511,7 +566,8 @@
                     "city": "Charlotte",
                     "state": "NC",
                     "stadium": "Bank of America Stadium",
-                    "image": "assets/img/nfl/panthers.gif"
+                    "image": "assets/img/nfl/panthers.gif",
+                    "abbreviation": "CAR"
                 },
                 {
                     "name": "New Orleans Saints",
@@ -520,7 +576,8 @@
                     "city": "New Orleans",
                     "state": "LA",
                     "stadium": "Mercedes-Benz Superdome",
-                    "image": "assets/img/nfl/saints.gif"
+                    "image": "assets/img/nfl/saints.gif",
+                    "abbreviation": "NO"
                 },
                 {
                     "name": "Tampa Bay Buccaneers",
@@ -529,7 +586,8 @@
                     "city": "Tampa",
                     "state": "FL",
                     "stadium": "Raymond James Stadium",
-                    "image": "assets/img/nfl/buccaneers.gif"
+                    "image": "assets/img/nfl/buccaneers.gif",
+                    "abbreviation": "TB"
                 },
                 {
                     "name": "Arizona Cardinals",
@@ -538,7 +596,8 @@
                     "city": "Glendale",
                     "state": "AZ",
                     "stadium": "University of Phoenix Stadium",
-                    "image": "assets/img/nfl/cardinals.gif"
+                    "image": "assets/img/nfl/cardinals.gif",
+                    "abbreviation": "ARI"
                 },
                 {
                     "name": "Los Angeles Rams",
@@ -547,7 +606,8 @@
                     "city": "Los Angeles",
                     "state": "CA",
                     "stadium": "Los Angeles Memorial Coliseum",
-                    "image": "assets/img/nfl/rams.gif"
+                    "image": "assets/img/nfl/rams.gif",
+                    "abbreviation": "LA"
                 },
                 {
                     "name": "San Francisco 49ers",
@@ -556,7 +616,8 @@
                     "city": "Santa Clara",
                     "state": "CA",
                     "stadium": "Levi's Stadium",
-                    "image": "assets/img/nfl/49ers.gif"
+                    "image": "assets/img/nfl/49ers.gif",
+                    "abbreviation": "SF"
                 },
                 {
                     "name": "Seattle Seahawks",
@@ -565,7 +626,8 @@
                     "city": "Seattle",
                     "state": "WA",
                     "stadium": "CenturyLink Field",
-                    "image": "assets/img/nfl/seahawks.gif"
+                    "image": "assets/img/nfl/seahawks.gif",
+                    "abbreviation": "SEA"
             }   
             ]
         },
@@ -579,7 +641,8 @@
                     "city": "Boston",
                     "state": "MA",
                     "stadium": "TD Garden",
-                    "image": "assets/img/nba/celtics.gif"
+                    "image": "assets/img/nba/celtics.gif",
+                    "abbreviation": "BOS"
                 },
                 {
                     "conference": "Eastern",
@@ -588,7 +651,8 @@
                     "city": "New York",
                     "state": "NY",
                     "stadium": "Barclays Center",
-                    "image": "assets/img/nba/nets.gif"
+                    "image": "assets/img/nba/nets.gif",
+                    "abbreviation": "BRO"
                 },
                 {
                     "conference": "Eastern",
@@ -597,7 +661,8 @@
                     "city": "New York",
                     "state": "NY",
                     "stadium": "Madison Square Garden",
-                    "image": "assets/img/nba/knicks.gif"
+                    "image": "assets/img/nba/knicks.gif",
+                    "abbreviation": "NYK"
                 },
                 {
                     "conference": "Eastern",
@@ -606,7 +671,8 @@
                     "city": "Philadelphia",
                     "state": "PA",
                     "stadium": "Wells Fargo Center",
-                    "image": "assets/img/nba/76ers.gif"
+                    "image": "assets/img/nba/76ers.gif",
+                    "abbreviation": "PHI"
                 },
                 {
                     "conference": "Eastern",
@@ -615,7 +681,8 @@
                     "city": "Toronto",
                     "state": "ON",
                     "stadium": "Air Canada Centre",
-                    "image": "assets/img/nba/raptors.gif"
+                    "image": "assets/img/nba/raptors.gif",
+                    "abbreviation": "TOR"
                 },
                 {
                     "conference": "Eastern",
@@ -624,7 +691,8 @@
                     "city": "Chicago",
                     "state": "IL",
                     "stadium": "United Center",
-                    "image": "assets/img/nba/bulls.gif"
+                    "image": "assets/img/nba/bulls.gif",
+                    "abbreviation": "CHI"
                 },
                 {
                     "conference": "Eastern",
@@ -633,7 +701,8 @@
                     "city": "Cleveland",
                     "state": "OH",
                     "stadium": "Quicken Loans Arena",
-                    "image": "assets/img/nba/cavaliers.gif"
+                    "image": "assets/img/nba/cavaliers.gif",
+                    "abbreviation": "CLE"
                 },
                 {
                     "conference": "Eastern",
@@ -642,7 +711,8 @@
                     "city": "Auburn Hills",
                     "state": "MI",
                     "stadium": "The Palace of Auburn Hills",
-                    "image": "assets/img/nba/pistons.gif"
+                    "image": "assets/img/nba/pistons.gif",
+                    "abbreviation": "DET"
                 },
                 {
                     "conference": "Eastern",
@@ -651,7 +721,8 @@
                     "city": "Indianapolis",
                     "state": "IN",
                     "stadium": "Bankers Life Fieldhouse",
-                    "image": "assets/img/nba/pacers.gif"
+                    "image": "assets/img/nba/pacers.gif",
+                    "abbreviation": "IND"
                 },
                 {
                     "conference": "Eastern",
@@ -660,7 +731,8 @@
                     "city": "Milwaukee",
                     "state": "WI",
                     "stadium": "BMO Harris Bradley Center",
-                    "image": "assets/img/nba/bucks.gif"
+                    "image": "assets/img/nba/bucks.gif",
+                    "abbreviation": "MIL"
                 },
                 {
                     "conference": "Eastern",
@@ -669,7 +741,8 @@
                     "city": "Atlanta",
                     "state": "GA",
                     "stadium": "Philips Arena",
-                    "image": "assets/img/nba/hawks.gif"
+                    "image": "assets/img/nba/hawks.gif",
+                    "abbreviation": "ATL"
                 },
                 {
                     "conference": "Eastern",
@@ -678,7 +751,8 @@
                     "city": "Charlotte",
                     "state": "NC",
                     "stadium": "Spectrum Center",
-                    "image": "assets/img/nba/hornets.gif"
+                    "image": "assets/img/nba/hornets.gif",
+                    "abbreviation": "CHA"
                 },
                 {
                     "conference": "Eastern",
@@ -687,7 +761,8 @@
                     "city": "Miami",
                     "state": "FL",
                     "stadium": "American Airlines Arena",
-                    "image": "assets/img/nba/heat.gif"
+                    "image": "assets/img/nba/heat.gif",
+                    "abbreviation": "MIA"
                 },
                 {
                     "conference": "Eastern",
@@ -696,7 +771,8 @@
                     "city": "Orlando",
                     "state": "FL",
                     "stadium": "Amway Center",
-                    "image": "assets/img/nba/magic.gif"
+                    "image": "assets/img/nba/magic.gif",
+                    "abbreviation": "ORL"
                 },
                 {
                     "conference": "Eastern",
@@ -704,7 +780,8 @@
                     "name": "Washington Wizards",
                     "city": "Washington, D.C.",
                     "stadium": "Verizon Center",
-                    "image": "assets/img/nba/wizards.gif"
+                    "image": "assets/img/nba/wizards.gif",
+                    "abbreviation": "WAS"
                 },
                 {
                     "conference": "Western",
@@ -713,7 +790,8 @@
                     "city": "Denver",
                     "state": "CO",
                     "stadium": "Pepsi Center",
-                    "image": "assets/img/nba/nuggets.gif"
+                    "image": "assets/img/nba/nuggets.gif",
+                    "abbreviation": "DEN"
                 },
                 {
                     "conference": "Western",
@@ -722,7 +800,8 @@
                     "city": "Minneapolis",
                     "state": "MN",
                     "stadium": "Target Center",
-                    "image": "assets/img/nba/timberwolves.gif"
+                    "image": "assets/img/nba/timberwolves.gif",
+                    "abbreviation": "MIN"
                 },
                 {
                     "conference": "Western",
@@ -731,7 +810,8 @@
                     "city": "Oklahoma City",
                     "state": "OK",
                     "stadium": "Chesapeake Energy Arena",
-                    "image": "assets/img/nba/thunder.gif"
+                    "image": "assets/img/nba/thunder.gif",
+                    "abbreviation": "OKL"
                 },
                 {
                     "conference": "Western",
@@ -740,7 +820,8 @@
                     "city": "Portland",
                     "state": "OR",
                     "stadium": "Moda Center",
-                    "image": "assets/img/nba/trailblazers.gif"
+                    "image": "assets/img/nba/trailblazers.gif",
+                    "abbreviation": "POR"
                 },
                 {
                     "conference": "Western",
@@ -749,7 +830,8 @@
                     "city": "Salt Lake City",
                     "state": "UT",
                     "stadium": "Vivint Smart Home Arena",
-                    "image": "assets/img/nba/jazz.gif"
+                    "image": "assets/img/nba/jazz.gif",
+                    "abbreviation": "UTA"
                 },
                 {
                     "conference": "Western",
@@ -758,7 +840,8 @@
                     "city": "Oakland",
                     "state": "CA",
                     "stadium": "Oracle Arena",
-                    "image": "assets/img/nba/warriors.gif"
+                    "image": "assets/img/nba/warriors.gif",
+                    "abbreviation": "GSW"
                 },
                 {
                     "conference": "Western",
@@ -767,7 +850,8 @@
                     "city": "Los Angeles",
                     "state": "CA",
                     "stadium": "Staples Center",
-                    "image": "assets/img/nba/clippers.gif"
+                    "image": "assets/img/nba/clippers.gif",
+                    "abbreviation": "LAC"
                 },
                 {
                     "conference": "Western",
@@ -776,7 +860,8 @@
                     "city": "Los Angeles",
                     "state": "CA",
                     "stadium": "Staples Center",
-                    "image": "assets/img/nba/lakers.gif"
+                    "image": "assets/img/nba/lakers.gif",
+                    "abbreviation": "LAL"
                 },
                 {
                     "conference": "Western",
@@ -785,7 +870,8 @@
                     "city": "Phoenix",
                     "state": "AZ",
                     "stadium": "Talking Stick Resort Arena",
-                    "image": "assets/img/nba/suns.gif"
+                    "image": "assets/img/nba/suns.gif",
+                    "abbreviation": "PHX"
                 },
                 {
                     "conference": "Western",
@@ -794,7 +880,8 @@
                     "city": "Sacramento",
                     "state": "CA",
                     "stadium": "Golden 1 Center",
-                    "image": "assets/img/nba/kings.gif"
+                    "image": "assets/img/nba/kings.gif",
+                    "abbreviation": "SAC"
                 },
                 {
                     "conference": "Western",
@@ -803,7 +890,8 @@
                     "city": "Dallas",
                     "state": "TX",
                     "stadium": "American Airlines Center",
-                    "image": "assets/img/nba/mavericks.gif"
+                    "image": "assets/img/nba/mavericks.gif",
+                    "abbreviation": "DAL"
                 },
                 {
                     "conference": "Western",
@@ -812,7 +900,8 @@
                     "city": "Houston",
                     "state": "TX",
                     "stadium": "Toyota Center",
-                    "image": "assets/img/nba/rockets.gif"
+                    "image": "assets/img/nba/rockets.gif",
+                    "abbreviation": "HOU"
                 },
                 {
                     "conference": "Western",
@@ -821,7 +910,8 @@
                     "city": "Memphis",
                     "state": "TN",
                     "stadium": "FedExForum",
-                    "image": "assets/img/nba/grizzlies.gif"
+                    "image": "assets/img/nba/grizzlies.gif",
+                    "abbreviation": "MEM"
                 },
                 {
                     "conference": "Western",
@@ -830,7 +920,8 @@
                     "city": "New Orleans",
                     "state": "LA",
                     "stadium": "Smoothie King Center",
-                    "image": "assets/img/nba/pelicans.gif"
+                    "image": "assets/img/nba/pelicans.gif",
+                    "abbreviation": "NOP"
                 },
                 {
                     "conference": "Western",
@@ -839,7 +930,8 @@
                     "city": "San Antonio",
                     "state": "TX",
                     "stadium": "AT&T Center",
-                    "image": "assets/img/nba/spurs.gif"
+                    "image": "assets/img/nba/spurs.gif",
+                    "abbreviation": "SAS"
             }    
             ]
         },
@@ -853,7 +945,8 @@
                     "division": "Atlantic",
                     "name": "Boston Bruins",
                     "stadium": "TD Garden",
-                    "image": "assets/img/nhl/bruins.gif"
+                    "image": "assets/img/nhl/bruins.gif",
+                    "abbreviation": "BOS"
                 },
                 {
                     "city": "Buffalo",
@@ -862,7 +955,8 @@
                     "division": "Atlantic",
                     "name": "Buffalo Sabres",
                     "stadium": "KeyBank Center",
-                    "image": "assets/img/nhl/sabres.gif"
+                    "image": "assets/img/nhl/sabres.gif",
+                    "abbreviation": "BUF"
                 },
                 {
                     "city": "Detroit",
@@ -871,7 +965,8 @@
                     "division": "Atlantic",
                     "name": "Detroit Red Wings",
                     "stadium": "Joe Louis Arena",
-                    "image": "assets/img/nhl/redwings.gif"
+                    "image": "assets/img/nhl/redwings.gif",
+                    "abbreviation": "DET"
                 },
                 {
                     "city": "Sunrise",
@@ -880,7 +975,8 @@
                     "division": "Atlantic",
                     "name": "Florida Panthers",
                     "stadium": "BB&T Center",
-                    "image": "assets/img/nhl/panthers.gif"
+                    "image": "assets/img/nhl/panthers.gif",
+                    "abbreviation": "FLO"
                 },
                 {
                     "city": "Montreal",
@@ -889,7 +985,8 @@
                     "division": "Atlantic",
                     "name": "Montreal Canadiens",
                     "stadium": "Bell Centre",
-                    "image": "assets/img/nhl/canadiens.gif"
+                    "image": "assets/img/nhl/canadiens.gif",
+                    "abbreviation": "MTL"
                 },
                 {
                     "city": "Ottawa",
@@ -898,7 +995,8 @@
                     "division": "Atlantic",
                     "name": "Ottawa Senators",
                     "stadium": "Canadian Tire Centre",
-                    "image": "assets/img/nhl/senators.gif"
+                    "image": "assets/img/nhl/senators.gif",
+                    "abbreviation": "OTT"
                 },
                 {
                     "city": "Tampa",
@@ -907,7 +1005,8 @@
                     "division": "Atlantic",
                     "name": "Tampa Bay Lightning",
                     "stadium": "Amalie Arena",
-                    "image": "assets/img/nhl/lightning.gif"
+                    "image": "assets/img/nhl/lightning.gif",
+                    "abbreviation": "TBL"
                 },
                 {
                     "city": "Toronto",
@@ -916,7 +1015,8 @@
                     "division": "Atlantic",
                     "name": "Toronto Maple Leafs",
                     "stadium": "Air Canada Centre",
-                    "image": "assets/img/nhl/mapleleafs.gif"
+                    "image": "assets/img/nhl/mapleleafs.gif",
+                    "abbreviation": "TOR"
                 },
                 {
                     "city": "Raleigh",
@@ -925,7 +1025,8 @@
                     "division": "Metropolitan",
                     "name": "Carolina Hurricanes",
                     "stadium": "PNC Arena",
-                    "image": "assets/img/nhl/hurricanes.gif"
+                    "image": "assets/img/nhl/hurricanes.gif",
+                    "abbreviation": "CAR"
                 },
                 {
                     "city": "Columbus",
@@ -934,7 +1035,8 @@
                     "division": "Metropolitan",
                     "name": "Columbus Blue Jackets",
                     "stadium": "Nationwide Arena",
-                    "image": "assets/img/nhl/bluejackets.gif"
+                    "image": "assets/img/nhl/bluejackets.gif",
+                    "abbreviation": "CBJ"
                 },
                 {
                     "city": "Newark",
@@ -943,7 +1045,8 @@
                     "division": "Metropolitan",
                     "name": "New Jersey Devils",
                     "stadium": "Prudential Center",
-                    "image": "assets/img/nhl/devils.gif"
+                    "image": "assets/img/nhl/devils.gif",
+                    "abbreviation": "NJD"
                 },
                 {
                     "city": "New York",
@@ -952,7 +1055,8 @@
                     "division": "Metropolitan",
                     "name": "New York Islanders",
                     "stadium": "Barclays Center",
-                    "image": "assets/img/nhl/islanders.gif"
+                    "image": "assets/img/nhl/islanders.gif",
+                    "abbreviation": "NYI"
                 },
                 {
                     "city": "New York",
@@ -961,7 +1065,8 @@
                     "division": "Metropolitan",
                     "name": "New York Rangers",
                     "stadium": "Madison Square Garden",
-                    "image": "assets/img/nhl/rangers.gif"
+                    "image": "assets/img/nhl/rangers.gif",
+                    "abbreviation": "NYR"
                 },
                 {
                     "city": "Philadelphia",
@@ -970,7 +1075,8 @@
                     "division": "Metropolitan",
                     "name": "Philadelphia Flyers",
                     "stadium": "Wells Fargo Center",
-                    "image": "assets/img/nhl/flyers.gif"
+                    "image": "assets/img/nhl/flyers.gif",
+                    "abbreviation": "PHI"
                 },
                 {
                     "city": "Pittsburgh",
@@ -979,7 +1085,8 @@
                     "division": "Metropolitan",
                     "name": "Pittsburgh Penguins",
                     "stadium": "Consol Energy Center",
-                    "image": "assets/img/nhl/penguins.gif"
+                    "image": "assets/img/nhl/penguins.gif",
+                    "abbreviation": "PIT"
                 },
                 {
                     "city": "Washington, D.C.",
@@ -987,7 +1094,8 @@
                     "division": "Metropolitan",
                     "name": "Washington Capitals",
                     "stadium": "Verizon Center",
-                    "image": "assets/img/nhl/capitals.gif"
+                    "image": "assets/img/nhl/capitals.gif",
+                    "abbreviation": "WSH"
                 },
                 {
                     "city": "Anaheim",
@@ -996,7 +1104,8 @@
                     "division": "Pacific",
                     "name": "Anaheim Ducks",
                     "stadium": "Honda Center",
-                    "image": "assets/img/nhl/ducks.gif"
+                    "image": "assets/img/nhl/ducks.gif",
+                    "abbreviation": "ANA"
                 },
                 {
                     "city": "Glendale",
@@ -1005,7 +1114,8 @@
                     "division": "Pacific",
                     "name": "Arizona Coyotes",
                     "stadium": "Gila River Arena",
-                    "image": "assets/img/nhl/coyotes.gif"
+                    "image": "assets/img/nhl/coyotes.gif",
+                    "abbreviation": "ARI"
                 },
                 {
                     "city": "Calgary",
@@ -1014,7 +1124,8 @@
                     "division": "Pacific",
                     "name": "Calgary Flames",
                     "stadium": "Scotiabank Saddledome",
-                    "image": "assets/img/nhl/flames.gif"
+                    "image": "assets/img/nhl/flames.gif",
+                    "abbreviation": "CGY"
                 },
                 {
                     "city": "Edmonton",
@@ -1023,7 +1134,8 @@
                     "division": "Pacific",
                     "name": "Edmonton Oilers",
                     "stadium": "Rogers Place",
-                    "image": "assets/img/nhl/oilers.gif"
+                    "image": "assets/img/nhl/oilers.gif",
+                    "abbreviation": "EDM"
                 },
                 {
                     "city": "Los Angeles",
@@ -1032,7 +1144,8 @@
                     "division": "Pacific",
                     "name": "Los Angeles Kings",
                     "stadium": "Staples Center",
-                    "image": "assets/img/nhl/kings.gif"
+                    "image": "assets/img/nhl/kings.gif",
+                    "abbreviation": "LAK"
                 },
                 {
                     "city": "San Jose",
@@ -1041,7 +1154,8 @@
                     "division": "Pacific",
                     "name": "San Jose Sharks",
                     "stadium": "SAP Center at San Jose",
-                    "image": "assets/img/nhl/sharks.gif"
+                    "image": "assets/img/nhl/sharks.gif",
+                    "abbreviation": "SJS"
                 },
                 {
                     "city": "Vancouver",
@@ -1050,7 +1164,8 @@
                     "division": "Pacific",
                     "name": "Vancouver Canucks",
                     "stadium": "Rogers Arena",
-                    "image": "assets/img/nhl/canucks.gif"
+                    "image": "assets/img/nhl/canucks.gif",
+                    "abbreviation": "VAN"
                 },
                 {
                     "city": "Chicago",
@@ -1059,7 +1174,8 @@
                     "division": "Central",
                     "name": "Chicago Blackhawks",
                     "stadium": "United Center",
-                    "image": "assets/img/nhl/blackhawks.gif"
+                    "image": "assets/img/nhl/blackhawks.gif",
+                    "abbreviation": "CHI"
                 },
                 {
                     "city": "Denver",
@@ -1068,7 +1184,8 @@
                     "division": "Central",
                     "name": "Colorado Avalanche",
                     "stadium": "Pepsi Center",
-                    "image": "assets/img/nhl/avalanche.gif"
+                    "image": "assets/img/nhl/avalanche.gif",
+                    "abbreviation": "COL"
                 },
                 {
                     "city": "Dallas",
@@ -1077,7 +1194,8 @@
                     "division": "Central",
                     "name": "Dallas Stars",
                     "stadium": "American Airlines Center",
-                    "image": "assets/img/nhl/stars.gif"
+                    "image": "assets/img/nhl/stars.gif",
+                    "abbreviation": "DAL"
                 },
                 {
                     "city": "St. Paul",
@@ -1086,7 +1204,8 @@
                     "division": "Central",
                     "name": "Minnesota Wild",
                     "stadium": "Xcel Energy Center",
-                    "image": "assets/img/nhl/wild.gif"
+                    "image": "assets/img/nhl/wild.gif",
+                    "abbreviation": "MIN"
                 },
                 {
                     "city": "Nashville",
@@ -1095,7 +1214,8 @@
                     "division": "Central",
                     "name": "Nashville Predators",
                     "stadium": "Bridgestone Arena",
-                    "image": "assets/img/nhl/predators.gif"
+                    "image": "assets/img/nhl/predators.gif",
+                    "abbreviation": "NSH"
                 },
                 {
                     "city": "St. Louis",
@@ -1104,7 +1224,8 @@
                     "division": "Central",
                     "name": "St. Louis Blues",
                     "stadium": "Scottrade Center",
-                    "image": "assets/img/nhl/blues.gif"
+                    "image": "assets/img/nhl/blues.gif",
+                    "abbreviation": "STL"
                 },
                 {
                     "city": "Winnipeg",
@@ -1113,7 +1234,8 @@
                     "division": "Central",
                     "name": "Winnipeg Jets",
                     "stadium": "MTS Centre",
-                    "image": "assets/img/nhl/jets.gif"
+                    "image": "assets/img/nhl/jets.gif",
+                    "abbreviation": "WPJ"
             }    
             ]
         }

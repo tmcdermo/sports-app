@@ -1,8 +1,9 @@
+import { Time } from '@angular/common';
 export class Game {
+    id: number;
     date: Date;
-    homeTeam: string;
+    time: Time;
     awayTeam: string;
-    homeScore: number;
-    awayScore: number;
-    venue: string;
+    homeTeam: string;
+    location: string;
 }

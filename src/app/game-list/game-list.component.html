@@ -1,0 +1,33 @@
+<div>
+  <h3>Past Games (past 7 days)</h3>
+  <div *ngIf="games" class="row justify-content-center">
+    <div *ngFor="let game of pastGames()" class="game-card col-3 m-1">
+      <div class="row justify-content-center">
+        <span>{{ game.date | date: fullDate }}</span>
+      </div>
+      <div class="row justify-content-center">
+        <span>{{ game.time }}</span>
+      </div>
+      <div class="row justify-content-center">
+        <span>{{ game.awayTeam.Abbreviation }} vs. {{ game.homeTeam.Abbreviation }}</span>
+      </div>        
+    </div>
+  </div>
+</div>
+<div>
+  <h3 class="mt-5">Upcoming Games (next 7 days)</h3>
+  <div *ngIf="games" class="row justify-content-center">
+    <div *ngFor="let game of futureGames()" class="game-card col-3 m-1">
+      <div class="row justify-content-center">
+        <span>{{ game.date | date: fullDate }}</span>
+      </div>
+      <div class="row justify-content-center">
+        <span>{{ game.time }}</span>
+      </div>
+      <div class="row justify-content-center">
+        <span>{{ game.awayTeam.Abbreviation }} vs. {{ game.homeTeam.Abbreviation }}</span>
+      </div>        
+    </div>
+  </div>
+
+</div>
