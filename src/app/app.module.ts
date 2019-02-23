@@ -8,12 +8,16 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { TeamDetailsComponent } from './team-details/team-details.component';
 import { GameListComponent } from './game-list/game-list.component';
+import { SportSelectComponent } from './sport-select/sport-select.component';
+import { TeamSelectComponent } from './team-select/team-select.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     TeamDetailsComponent,
-    GameListComponent
+    GameListComponent,
+    SportSelectComponent,
+    TeamSelectComponent
   ],
   imports: [
     BrowserModule,

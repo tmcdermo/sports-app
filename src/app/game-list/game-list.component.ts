@@ -9,9 +9,8 @@ import { Game } from '../game';
   styleUrls: ['./game-list.component.css']
 })
 export class GameListComponent implements OnInit {
-
-  @Input() team: object;
   @Input() sport: string;
+  @Input() team: object;
   
   games: Game[];
 
@@ -27,12 +26,12 @@ export class GameListComponent implements OnInit {
 
   pastGames(): Game[] {
     const today = new Date();
-    return this.games.filter(x => x.date < today.toISOString());
+    return this.games.filter(x => new Date(x.date) < new Date(today.getTime() - 60 * 60 * 24 * 1000));
   }
 
   futureGames(): Game[] {
     const today = new Date();
-    return this.games.filter(x => x.date >= today.toISOString());
+    return this.games.filter(x => new Date(x.date) >= new Date(today.getTime() - 60 * 60 * 24 * 1000));
   }
 
 }
