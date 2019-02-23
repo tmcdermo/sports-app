@@ -1,0 +1,35 @@
+.team-button {
+    cursor: pointer;
+    background-color: darkgray;
+    max-height: 100px;
+    margin: 0.1em;
+    width: 90%;
+}
+
+.team-img {
+    background-color: white;
+    padding: 0;
+    
+}
+
+.team-img img {
+    padding: 0.1em;
+    min-width: 50px;
+    max-height: 100px;
+    
+}
+
+.team-name {
+    color: oldlace;
+    text-align: right;
+    font-size: 14px;
+}
+
+.team-button:hover {
+    background-color: #ddd;
+    left: 0.1em;
+}
+
+.team-button:hover .team-name {
+    color: black;
+}

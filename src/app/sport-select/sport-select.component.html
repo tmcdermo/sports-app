@@ -1,0 +1,14 @@
+<div class="row justify-content-center">
+  <div class="col-xs-12 col-md-8 text-center">
+    <h2 class="choose">Choose a Sport</h2>
+    <a *ngFor="let sport of sports" 
+      class="sport-button col-12 d-inline-flex align-items-center justify-content-between"
+      routerLink="/{{ sport.name }}/teams"
+      [state]="sportsData">
+      <div class="league-img col-4 d-flex flex-wrap align-items-center">
+        <img class="img-fluid mx-auto" [src]="sport.image" alt="{{sport.name}} logo" />         
+      </div>    
+      <h2 class="sport-name mr-5">{{sport.name}}</h2>
+    </a>    
+  </div> <!-- col -->  
+</div>
