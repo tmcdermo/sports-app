@@ -1,4 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
 
 import { GameService } from '../game.service';
 import { Game } from '../game';
@@ -13,9 +14,10 @@ export class GameListComponent implements OnInit {
   @Input() team: object;
   
   games: Game[];
+  sportsData: object;
 
   getGames(): void {
-    this.gameService.getGames(this.sport, this.team['abbreviation']).subscribe(games => this.games = games.fullgameschedule.gameentry);
+    this.gameService.getGames(this.sport, this.team['abbreviation']).subscribe(games => this.games = games['fullgameschedule'].gameentry);
   }
 
   constructor(private gameService: GameService) { }

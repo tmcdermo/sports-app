@@ -3,6 +3,7 @@ h3 {
 }
 
 .game-card {
-    color: oldlace;
-    border: solid 2px oldlace;
+    color: black;
+    background-color: white;
+    border: solid 4px black;
 }

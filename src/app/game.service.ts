@@ -23,4 +23,9 @@ export class GameService {
     const query = '?date=from-7-days-ago-to-7-days-from-now&team=' + abbrv;
     return this.http.get<Game[]>(url + query, httpOptions);
   }
+
+  getScores(sport: string, abbrv: string, date: string): Observable<object> {
+    const url = this.baseUrl + sport + '/latest/scoreboard.json?fordate=' + date.replace(/-/g, "") + '&team=' + abbrv;
+    return this.http.get<object>(url, httpOptions);
+  }
 }

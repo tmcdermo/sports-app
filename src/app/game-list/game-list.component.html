@@ -1,7 +1,7 @@
 <div>
   <h3>Past Games (past 7 days)</h3>
   <div *ngIf="games" class="row justify-content-center">
-    <div *ngFor="let game of pastGames()" class="game-card col-3 m-1">
+    <div *ngFor="let game of pastGames()" class="game-card col-5 pb-1 m-1">
       <div class="row justify-content-center">
         <span>{{ game.date | date: fullDate }}</span>
       </div>
@@ -9,25 +9,24 @@
         <span>{{ game.time }}</span>
       </div>
       <div class="row justify-content-center">
-        <span>{{ game.awayTeam.Abbreviation }} vs. {{ game.homeTeam.Abbreviation }}</span>
-      </div>        
+          <app-game-display class="col-6" [game]="game" [sport]="sport"></app-game-display>
+          <app-score-display class="col-3" [game]="game" [sport]="sport"></app-score-display>
+      </div>
+
     </div>
   </div>
 </div>
 <div>
   <h3 class="mt-5">Upcoming Games (next 7 days)</h3>
   <div *ngIf="games" class="row justify-content-center">
-    <div *ngFor="let game of futureGames()" class="game-card col-3 m-1">
+    <div *ngFor="let game of futureGames()" class="game-card col-5 pb-1 m-1">
       <div class="row justify-content-center">
         <span>{{ game.date | date: fullDate }}</span>
       </div>
       <div class="row justify-content-center">
         <span>{{ game.time }}</span>
       </div>
-      <div class="row justify-content-center">
-        <span>{{ game.awayTeam.Abbreviation }} vs. {{ game.homeTeam.Abbreviation }}</span>
-      </div>        
+      <app-game-display [game]="game" [sport]="sport"></app-game-display>
     </div>
   </div>
-
 </div>

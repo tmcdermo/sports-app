@@ -10,6 +10,8 @@ import { TeamDetailsComponent } from './team-details/team-details.component';
 import { GameListComponent } from './game-list/game-list.component';
 import { SportSelectComponent } from './sport-select/sport-select.component';
 import { TeamSelectComponent } from './team-select/team-select.component';
+import { GameDisplayComponent } from './game-display/game-display.component';
+import { ScoreDisplayComponent } from './score-display/score-display.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +19,9 @@ import { TeamSelectComponent } from './team-select/team-select.component';
     TeamDetailsComponent,
     GameListComponent,
     SportSelectComponent,
-    TeamSelectComponent
+    TeamSelectComponent,
+    GameDisplayComponent,
+    ScoreDisplayComponent
   ],
   imports: [
     BrowserModule,
