@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute, Router } from '@angular/router';
-import { HttpClient } from '@angular/common/http';
+import { ActivatedRoute } from '@angular/router';
+import { SportsDataService } from '../sports-data.service';
 
 @Component({
   selector: 'app-team-select',
@@ -9,23 +9,18 @@ import { HttpClient } from '@angular/common/http';
 })
 export class TeamSelectComponent implements OnInit {
 
-  sportsData: object;
   currentSport: string;
-  currentTeam: object;
   teams: object;
 
-  constructor( private route: ActivatedRoute, private http: HttpClient) { }
+  constructor(  private route: ActivatedRoute,
+                private dataService: SportsDataService ) { }
 
   ngOnInit() {
-    this.http.get<Object>('../../assets/data.json').subscribe(
-      data => {
-        this.sportsData = data;
-        this.getTeams();
-      });
+    this.getTeams();
   }
 
-  getTeams() {
+  getTeams(): void {
     this.currentSport = this.route.snapshot.paramMap.get('sport');
-    this.teams = this.sportsData['league'].find(league => league.name === this.currentSport).teams;
+    this.teams = this.dataService.getTeams(this.currentSport);
   }
 }
