@@ -17,7 +17,7 @@ export class SportsDataService {
     this.http.get<Object>('./assets/data.json').subscribe( data => this.data = data);
   }
 
-  getTeams(sport: string): object {
+  getTeams(sport: string): object[] {
     return this.data['league'].find(league => league.name === sport).teams;
   }
 }
