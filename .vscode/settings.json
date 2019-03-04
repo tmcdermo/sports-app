@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/44fbdc11-f319-4bbc-bfae-50ae5e02f07a/resourceGroups/portfolio-tm/providers/Microsoft.Web/sites/vscodenodeangular",
+    "appService.deploySubpath": "dist\\sports-app"
+}
