@@ -18,10 +18,10 @@ export class ScoreDisplayComponent implements OnInit {
   constructor(private gameService: GameService) { }
 
   ngOnInit() {
-    this.gameService.getScores(this.sport, this.game.homeTeam.Abbreviation, this.game.date).subscribe(
+    this.gameService.getScores(this.sport, this.game.homeTeam['Abbreviation'], this.game.date.toString()).subscribe(
       data => {
-        this.awayScore = data.scoreboard.gameScore[0].awayScore;
-        this.homeScore = data.scoreboard.gameScore[0].homeScore;
+        this.awayScore = data['scoreboard'].gameScore[0].awayScore;
+        this.homeScore = data['scoreboard'].gameScore[0].homeScore;
       }
     );
   }

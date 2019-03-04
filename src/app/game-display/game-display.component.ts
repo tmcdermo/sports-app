@@ -24,8 +24,8 @@ export class GameDisplayComponent implements OnInit {
 
   getTeams(): void {
     this.teams = this.dataService.getTeams(this.sport);
-    this.awayTeam = this.teams.find(team => team.abbreviation === this.game.awayTeam.Abbreviation);
-    this.homeTeam = this.teams.find(team => team.abbreviation === this.game.homeTeam.Abbreviation);
+    this.awayTeam = this.teams.find(team => team['abbreviation'] === this.game.awayTeam['Abbreviation']);
+    this.homeTeam = this.teams.find(team => team['abbreviation'] === this.game.homeTeam['Abbreviation']);
   }
 
 }
