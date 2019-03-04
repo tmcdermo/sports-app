@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { SportsDataService } from '../sports-data.service';
+import { Location } from '@angular/common';
 
 @Component({
   selector: 'app-team-select',
@@ -13,7 +14,8 @@ export class TeamSelectComponent implements OnInit {
   teams: object;
 
   constructor(  private route: ActivatedRoute,
-                private dataService: SportsDataService ) { }
+                private dataService: SportsDataService,
+                private location: Location ) { }
 
   ngOnInit() {
     this.getTeams();
@@ -22,5 +24,9 @@ export class TeamSelectComponent implements OnInit {
   getTeams(): void {
     this.currentSport = this.route.snapshot.paramMap.get('sport');
     this.teams = this.dataService.getTeams(this.currentSport);
+  }
+
+  goBack(): void {
+    this.location.back();
   }
 }

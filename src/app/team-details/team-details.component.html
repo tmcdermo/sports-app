@@ -1,6 +1,6 @@
 <div class="container mt-5">
   <div class="row justify-content-center">
-    <img class="team-logo col-xs-10 col-md-5" [src]="team?.image" alt="{{team?.name}} logo" />
+    <img class="team-logo col-lg-4 col-md-5 col-6" [src]="team?.image" alt="{{team?.name}} logo" />
   </div>
   <div class="row justify-content-center text-center">
     <ul class="p-0">
@@ -13,4 +13,12 @@
   <div class="row text-center justify-content-center">
     <app-game-list *ngIf="team" [sport]="sport" [team]="team"></app-game-list>
   </div>
+  <div class="row">
+    <button type="button" class="btn btn-primary mx-auto m-3" (click)="goBack()">Back to Team Select</button>
+  </div>   
+  <div class="row">
+    <a routerLink="/sport" class="btn btn-primary mx-auto">
+      <span>Back to Sport Select</span>
+    </a>    
+  </div>     
 </div>

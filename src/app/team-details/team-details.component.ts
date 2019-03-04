@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { ActivatedRoute } from '@angular/router';
+import { Location } from '@angular/common';
 
 @Component({
   selector: 'app-team-details',
@@ -13,7 +14,9 @@ export class TeamDetailsComponent implements OnInit {
   sport: string;
   team: object;
 
-  constructor(private http: HttpClient, private route: ActivatedRoute) { }
+  constructor(private http: HttpClient, 
+              private route: ActivatedRoute,
+              private location: Location) { }
 
   ngOnInit(): void {
     this.sport = this.route.snapshot.paramMap.get('sport');
@@ -24,6 +27,10 @@ export class TeamDetailsComponent implements OnInit {
           .find(league => league.name === this.sport).teams
           .find(x => x.abbreviation === this.route.snapshot.paramMap.get('team'));
       });
+  }
+
+  goBack(): void {
+    this.location.back();
   }
 
 }
