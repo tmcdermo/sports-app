@@ -3,7 +3,7 @@ export class Game {
     id: number;
     date: Date;
     time: Time;
-    awayTeam: string;
-    homeTeam: string;
+    awayTeam: any = '';
+    homeTeam: any = '';
     location: string;
 }
