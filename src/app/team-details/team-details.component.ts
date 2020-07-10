@@ -12,7 +12,7 @@ export class TeamDetailsComponent implements OnInit {
 
   sportsData: object;
   sport: string;
-  team: object;
+    team: any = {};
 
   constructor(private http: HttpClient, 
               private route: ActivatedRoute,

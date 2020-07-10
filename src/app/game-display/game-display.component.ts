@@ -13,8 +13,8 @@ export class GameDisplayComponent implements OnInit {
   @Input() sport: string;
 
   teams: object[];
-  awayTeam: object;
-  homeTeam: object;
+    awayTeam: any = {};
+    homeTeam: any = {};
 
   constructor(private dataService: SportsDataService) { }
 
