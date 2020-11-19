@@ -7,7 +7,7 @@ import { Game } from './game';
 import { strictEqual } from 'assert';
 
 const httpOptions = {
-  headers: new HttpHeaders({ 'Authorization': `Basic ${btoa('mcdermot:password')}` })
+  headers: new HttpHeaders({ 'Authorization': `Basic ${btoa('${{secrets.SECRET_LOGIN}}:${{secrets.SECRET_PW}}')}` })
 };
 @Injectable({
   providedIn: 'root'
